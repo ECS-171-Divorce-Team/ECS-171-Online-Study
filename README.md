@@ -1,4 +1,4 @@
-# ECS 177 Divorce Prediction
+# ECS 171 Divorce Prediction
 A Machine Learning project to predict divorce
 
 ## Project proposals:
