@@ -1,5 +1,5 @@
 # ECS 171 Divorce Prediction
-A Machine Learning project to predict divorce in Mexico
+A Machine Learning project to predict divorce in Mexico?
 
 ## Project proposals:
 [Google Doc initial report](
