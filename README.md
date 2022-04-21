@@ -1,4 +1,4 @@
-# ECS 171 Divorce Prediction
+# ECS 171 Online Studying
 A Machine Learning project to predict divorce in Mexico?
 
 ## Project proposals:
@@ -6,7 +6,7 @@ A Machine Learning project to predict divorce in Mexico?
 https://docs.google.com/document/d/1zDExrRJAhWO2K9hIyktmuR7PUOF_EqtLiSvZsmc4im4/edit?usp=sharing)
 
 ## Requirement:
-- [Online Education Dataset](https://www.kaggle.com/datasets/sujaradha/online-education-system-review)
+- [Online Studying Dataset](https://www.kaggle.com/datasets/sujaradha/online-education-system-review)
 
 ## Project Breakdown:
 1) Data Exploration
