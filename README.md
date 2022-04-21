@@ -6,7 +6,7 @@ A Machine Learning project to predict divorce in Mexico?
 https://docs.google.com/document/d/1zDExrRJAhWO2K9hIyktmuR7PUOF_EqtLiSvZsmc4im4/edit?usp=sharing)
 
 ## Requirement:
-- [Divorce Dataset](https://www.kaggle.com/datasets/aagghh/divorcemarriage-dataset-with-birth-dates)
+- [Online Education Dataset](https://www.kaggle.com/datasets/sujaradha/online-education-system-review)
 
 ## Project Breakdown:
 1) Data Exploration
