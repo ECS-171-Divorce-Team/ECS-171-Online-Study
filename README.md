@@ -1,5 +1,5 @@
 # ECS 171 Online Studying
-A Machine Learning project to predict divorce in Mexico?
+A Machine Learning project about the online education system.
 
 ## Project proposals:
 [Google Doc initial report](
