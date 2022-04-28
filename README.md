@@ -28,7 +28,7 @@ How well is the model performing (MSE)
 
 5) Post-Processing
 
-    - **<u>IMPORTANT Step</u>**
+    - **<u>Crucial Step</u>**
     - To convert data back into consumable format (plot, chart comparison)
 
 ## Project Timeline:
