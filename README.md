@@ -32,4 +32,4 @@ How well is the model performing (MSE)
     - To convert data back into consumable format (plot, chart comparison)
 
 ## Project Timeline:
-[Check our milestones page to see the timeline](https://github.com/ECS-171-Divorce-Team/Website/milestones)
+[Check our milestones page to see the timeline](https://github.com/ECS-171-Divorce-Team/ECS-177-Divorce-Prediction/milestones)
