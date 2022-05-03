@@ -1,0 +1,36 @@
+Engaged in group studies?:
+{'No': 1, 'yes': 2}
+
+Device type used to attend classes:
+{'Laptop': 1, 'Desktop': 2, 'Mobile': 3}
+
+Home Location:
+{'Urban': 1, 'Rural': 2}
+
+Gender:
+{'Male': 1, 'Female': 2}
+
+Have separate room for studying?:
+{'No': 1, 'Yes': 2}
+
+Interested in?:
+{'Practical': 1, 'Theory': 2, 'Both': 3}
+
+Do elderly people monitor you?:
+{'Yes': 1, 'No': 2}
+
+Economic status:
+{'Middle Class': 1, 'Poor': 2, 'Rich': 3}
+
+Your level of satisfaction in Online Education:
+{'Average': 1, 'Bad': 2, 'Good': 3}
+
+Level of Education:
+{'Under Graduate': 1, 'Post Graduate': 2, 'School': 3}
+
+Are you involved in any sports?:
+{'No': 1, 'Yes': 2}
+
+Interested in Gaming?:
+{'No': 1, 'Yes': 2}
+
