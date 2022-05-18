@@ -1,0 +1,1034 @@
+,Gender,Home Location,Level of Education,Age(Years),Number of Subjects,Device type used to attend classes,Economic status,Family size,Internet facility in your locality,Are you involved in any sports?,Do elderly people monitor you?,Study time (Hours),Sleep time (Hours),Time spent on social media (Hours),Interested in Gaming?,Have separate room for studying?,Engaged in group studies?,Average marks scored before pandemic in traditional classroom,Your interaction in online mode,Clearing doubts with faculties in online mode,Interested in?,Performance in online,Your level of satisfaction in Online Education
+0,Male,Urban,Under Graduate,18,11,Laptop,Middle Class,4,5,No,Yes,3,6,1,No,No,No,95.5,1,1,Practical,6,Average
+1,Male,Urban,Under Graduate,19,7,Laptop,Middle Class,4,1,Yes,Yes,7,5,1,Yes,Yes,No,95.5,1,1,Theory,3,Bad
+2,Male,Rural,Under Graduate,18,5,Laptop,Middle Class,5,2,No,Yes,6,7,1,No,Yes,No,75.5,1,1,Both,6,Bad
+3,Male,Urban,Under Graduate,18,5,Laptop,Middle Class,4,4,Yes,Yes,3,6,2,No,No,yes,95.5,1,2,Theory,4,Bad
+4,Male,Rural,Under Graduate,18,5,Laptop,Middle Class,4,3,No,No,8,7,2,Yes,Yes,yes,85.5,3,3,Both,6,Average
+5,Male,Urban,Under Graduate,18,5,Laptop,Middle Class,4,4,Yes,Yes,3,6,2,No,No,yes,95.5,1,1,Theory,2,Bad
+6,Male,Urban,Under Graduate,19,5,Laptop,Middle Class,5,5,No,No,2,6,3,Yes,Yes,yes,85.5,4,3,Both,6,Average
+7,Male,Urban,Under Graduate,17,4,Laptop,Middle Class,4,4,Yes,Yes,4,8,6,No,Yes,No,65.5,3,3,Practical,6,Average
+8,Female,Urban,Under Graduate,19,5,Laptop,Middle Class,4,4,No,Yes,6,6,2,No,Yes,yes,85.5,4,1,Both,9,Bad
+9,Female,Rural,Under Graduate,20,9,Laptop,Middle Class,4,3,No,Yes,4,7,2,No,No,No,85.5,3,2,Theory,6,Average
+10,Female,Urban,Under Graduate,18,4,Desktop,Middle Class,3,5,No,No,5,6,3,Yes,Yes,No,85.5,2,1,Practical,9,Average
+11,Male,Rural,Post Graduate,25,5,Mobile,Middle Class,2,3,No,Yes,3,7,1,Yes,Yes,yes,75.5,3,3,Practical,7,Average
+12,Male,Urban,Under Graduate,20,7,Laptop,Middle Class,4,4,Yes,No,7,5,1,Yes,Yes,yes,85.5,4,4,Both,6,Average
+13,Male,Urban,Under Graduate,17,5,Laptop,Middle Class,4,4,Yes,Yes,2,6,2,Yes,No,yes,85.5,3,2,Practical,5,Average
+14,Male,Urban,School,21,5,Laptop,Middle Class,5,4,Yes,Yes,5,7,2,Yes,No,No,85.5,3,3,Both,6,Average
+15,Male,Urban,School,20,5,Desktop,Middle Class,4,3,Yes,Yes,5,6,5,Yes,Yes,yes,95.5,2,2,Both,5,Bad
+16,Female,Urban,Post Graduate,20,9,Laptop,Middle Class,4,4,No,Yes,8,5,2,No,No,No,35.5,2,2,Practical,6,Average
+17,Male,Rural,Post Graduate,23,5,Desktop,Middle Class,6,3,No,No,5,7,2,Yes,Yes,No,85.5,2,2,Both,6,Bad
+18,Female,Urban,School,18,4,Desktop,Middle Class,4,4,No,Yes,7,7,2,No,Yes,yes,85.5,2,2,Theory,7,Average
+19,Female,Urban,Under Graduate,19,6,Laptop,Middle Class,4,5,No,Yes,5,7,4,No,Yes,No,85.5,3,2,Theory,6,Average
+20,Male,Urban,Post Graduate,24,20,Laptop,Poor,6,3,No,No,8,8,2,No,No,No,85.5,2,3,Practical,4,Bad
+21,Female,Urban,Post Graduate,22,8,Mobile,Middle Class,4,4,No,No,2,8,2,Yes,Yes,yes,85.5,3,3,Both,10,Good
+22,Female,Urban,School,19,5,Mobile,Middle Class,5,5,No,Yes,6,7,2,No,Yes,yes,65.5,3,3,Both,7,Average
+23,Female,Urban,Post Graduate,24,8,Laptop,Middle Class,4,3,No,Yes,7,6,2,Yes,No,No,85.5,3,3,Both,5,Average
+24,Female,Urban,Under Graduate,18,6,Laptop,Middle Class,4,5,No,No,4,5,5,No,Yes,yes,95.5,3,3,Theory,6,Average
+25,Female,Rural,Post Graduate,21,9,Mobile,Middle Class,4,3,No,No,7,8,4,Yes,Yes,No,85.5,3,2,Both,8,Good
+26,Female,Urban,Under Graduate,19,7,Mobile,Middle Class,4,4,No,No,6,8,3,No,No,No,75.5,3,3,Theory,7,Average
+27,Male,Rural,Under Graduate,21,8,Mobile,Poor,4,3,No,No,1,7,5,Yes,No,No,45.5,3,1,Theory,6,Average
+28,Male,Urban,Under Graduate,20,7,Laptop,Middle Class,4,4,Yes,No,3,7,4,Yes,Yes,No,85.5,4,3,Both,8,Average
+29,Female,Urban,Under Graduate,17,5,Laptop,Middle Class,3,3,No,Yes,5,6,3,No,No,yes,95.5,3,3,Practical,6,Average
+30,Male,Urban,Under Graduate,22,4,Laptop,Middle Class,4,5,Yes,Yes,6,7,3,Yes,Yes,yes,65.5,5,5,Both,10,Good
+31,Female,Urban,School,18,3,Desktop,Middle Class,5,5,Yes,Yes,6,8,2,No,Yes,No,85.5,3,3,Theory,8,Average
+32,Male,Urban,Post Graduate,21,6,Laptop,Middle Class,5,3,Yes,No,4,6,1,No,No,No,75.5,3,2,Both,5,Average
+33,Male,Urban,Under Graduate,19,7,Laptop,Middle Class,4,4,Yes,No,5,7,1,No,Yes,yes,95.5,5,5,Both,6,Good
+34,Male,Urban,Under Graduate,18,8,Laptop,Middle Class,3,4,Yes,Yes,4,5,2,No,Yes,No,85.5,3,3,Practical,8,Average
+35,Male,Rural,Post Graduate,20,8,Mobile,Middle Class,4,3,No,Yes,4,7,1,No,No,yes,25.5,4,4,Practical,8,Good
+36,Male,Urban,Under Graduate,18,5,Laptop,Middle Class,3,5,Yes,No,8,7,1,Yes,Yes,No,85.5,5,5,Practical,9,Good
+37,Male,Urban,Under Graduate,18,6,Laptop,Middle Class,4,3,No,Yes,3,7,1,No,No,No,75.5,4,4,Practical,8,Average
+38,Male,Rural,Post Graduate,21,8,Mobile,Middle Class,7,3,No,No,2,7,8,Yes,No,yes,75.5,2,1,Practical,6,Bad
+39,Female,Rural,Under Graduate,17,6,Laptop,Middle Class,4,4,No,No,7,9,3,No,Yes,No,85.5,4,3,Both,9,Good
+40,Female,Urban,Post Graduate,26,2,Laptop,Middle Class,4,4,No,No,1,6,1,Yes,No,No,85.5,3,2,Practical,7,Average
+41,Female,Urban,School,19,5,Laptop,Middle Class,3,4,No,Yes,4,6,4,No,Yes,No,75.5,2,1,Theory,4,Bad
+42,Male,Urban,Post Graduate,21,6,Mobile,Middle Class,4,3,No,Yes,3,7,3,Yes,Yes,yes,15.5,4,2,Both,4,Good
+43,Female,Urban,Under Graduate,19,5,Laptop,Middle Class,6,4,No,Yes,7,6,1,No,Yes,yes,85.5,3,3,Practical,6,Average
+44,Male,Urban,Under Graduate,18,5,Laptop,Middle Class,5,2,Yes,Yes,4,2,3,No,Yes,No,85.5,2,1,Practical,8,Bad
+45,Male,Urban,Under Graduate,21,7,Mobile,Middle Class,4,3,No,No,3,8,3,Yes,Yes,yes,75.5,2,2,Practical,8,Average
+46,Female,Urban,Post Graduate,21,7,Mobile,Middle Class,5,3,No,No,3,5,3,Yes,Yes,No,75.5,2,3,Theory,6,Average
+47,Female,Urban,Under Graduate,21,9,Laptop,Middle Class,5,3,No,No,4,10,3,No,Yes,No,45.5,2,3,Theory,6,Good
+48,Male,Urban,Post Graduate,21,6,Desktop,Middle Class,5,2,No,Yes,3,6,3,Yes,Yes,No,85.5,3,2,Practical,6,Average
+49,Male,Rural,Post Graduate,21,8,Mobile,Middle Class,5,1,No,No,6,8,3,Yes,Yes,yes,35.5,3,1,Practical,4,Bad
+50,Female,Urban,School,9,6,Mobile,Middle Class,5,5,No,No,1,8,10,Yes,Yes,No,85.5,2,1,Practical,3,Bad
+51,Male,Rural,Post Graduate,19,7,Mobile,Middle Class,4,3,No,No,1,7,3,No,No,No,75.5,3,3,Practical,7,Average
+52,Male,Urban,Under Graduate,18,7,Desktop,Middle Class,4,4,Yes,Yes,2,7,1,No,No,No,95.5,5,4,Both,8,Good
+53,Female,Urban,Post Graduate,23,17,Laptop,Middle Class,6,4,No,Yes,5,8,2,No,Yes,No,75.5,4,2,Practical,5,Bad
+54,Male,Urban,Post Graduate,21,8,Mobile,Middle Class,4,4,Yes,No,6,8,6,Yes,Yes,yes,65.5,3,3,Theory,7,Average
+55,Female,Rural,Post Graduate,21,8,Mobile,Middle Class,4,4,No,Yes,4,3,5,No,Yes,yes,35.5,2,2,Theory,6,Good
+56,Male,Rural,Post Graduate,20,20,Mobile,Middle Class,4,4,No,No,2,7,3,Yes,Yes,yes,75.5,5,4,Theory,8,Good
+57,Male,Urban,Post Graduate,20,8,Laptop,Middle Class,4,3,Yes,No,5,7,2,Yes,No,yes,65.5,2,2,Practical,6,Average
+58,Male,Rural,Under Graduate,20,9,Mobile,Middle Class,5,4,Yes,Yes,5,6,1,No,No,No,55.5,2,2,Both,6,Average
+59,Female,Urban,Post Graduate,22,7,Mobile,Middle Class,5,1,No,Yes,4,8,4,Yes,Yes,No,75.5,4,4,Practical,8,Good
+60,Female,Urban,Under Graduate,20,7,Laptop,Middle Class,5,4,No,No,4,6,4,No,No,yes,85.5,2,3,Theory,7,Average
+61,Female,Rural,Post Graduate,24,15,Laptop,Middle Class,5,3,No,Yes,4,6,3,No,No,No,65.5,3,3,Practical,8,Bad
+62,Female,Rural,Post Graduate,21,7,Mobile,Middle Class,5,4,No,No,5,7,2,No,Yes,yes,75.5,4,4,Practical,8,Good
+63,Female,Rural,Under Graduate,19,6,Mobile,Middle Class,4,4,No,Yes,3,7,2,Yes,Yes,No,85.5,4,4,Practical,6,Good
+64,Female,Rural,Under Graduate,18,6,Laptop,Middle Class,4,3,No,Yes,5,10,4,Yes,No,No,55.5,3,2,Practical,10,Good
+65,Female,Rural,Under Graduate,18,4,Mobile,Middle Class,4,3,No,Yes,5,6,3,Yes,Yes,yes,65.5,2,2,Theory,10,Good
+66,Female,Urban,Under Graduate,18,6,Laptop,Middle Class,5,4,No,Yes,8,6,2,Yes,Yes,yes,75.5,4,4,Theory,8,Average
+67,Female,Urban,Under Graduate,20,5,Mobile,Middle Class,4,3,No,Yes,2,9,2,No,Yes,yes,75.5,5,3,Theory,9,Good
+68,Male,Urban,Under Graduate,19,7,Mobile,Middle Class,4,4,Yes,Yes,6,8,4,Yes,Yes,yes,65.5,4,4,Both,8,Average
+69,Male,Urban,Post Graduate,9,3,Mobile,Middle Class,5,3,Yes,Yes,4,9,10,No,No,yes,95.5,3,3,Practical,6,Average
+70,Female,Urban,Under Graduate,19,9,Laptop,Middle Class,4,4,No,No,4,7,3,No,Yes,yes,65.5,4,4,Both,10,Good
+71,Female,Rural,Under Graduate,18,5,Mobile,Middle Class,5,2,Yes,No,3,7,1,No,No,No,75.5,2,1,Practical,2,Bad
+72,Female,Urban,Under Graduate,19,6,Mobile,Middle Class,6,3,No,Yes,5,6,3,Yes,No,yes,65.5,3,3,Practical,6,Average
+73,Male,Urban,Post Graduate,21,8,Mobile,Middle Class,5,5,Yes,No,2,8,3,Yes,Yes,yes,65.5,4,4,Theory,8,Average
+74,Female,Urban,Post Graduate,22,9,Mobile,Middle Class,6,3,Yes,Yes,5,7,2,No,No,No,75.5,4,3,Practical,7,Good
+75,Female,Urban,Post Graduate,21,7,Mobile,Middle Class,4,1,No,No,5,10,8,No,Yes,yes,65.5,5,3,Theory,6,Average
+76,Female,Rural,Under Graduate,19,6,Mobile,Poor,6,3,No,No,4,6,2,Yes,No,yes,65.5,4,5,Practical,10,Good
+77,Male,Urban,Post Graduate,23,6,Laptop,Middle Class,4,5,No,No,6,8,1,Yes,Yes,yes,75.5,3,3,Both,6,Average
+78,Male,Rural,Under Graduate,21,9,Laptop,Middle Class,5,3,Yes,Yes,6,8,3,No,No,No,55.5,4,4,Practical,6,Average
+79,Female,Urban,Under Graduate,20,9,Mobile,Middle Class,5,3,No,No,2,7,1,No,No,yes,75.5,4,4,Theory,7,Bad
+80,Male,Urban,Under Graduate,18,6,Laptop,Middle Class,4,4,No,No,2,5,1,No,No,No,75.5,3,3,Both,6,Average
+81,Female,Urban,Post Graduate,20,6,Mobile,Middle Class,5,2,No,Yes,5,9,5,Yes,No,yes,25.5,2,2,Practical,10,Good
+82,Male,Rural,Under Graduate,20,8,Laptop,Middle Class,7,5,No,No,6,7,2,No,Yes,No,75.5,4,4,Theory,7,Average
+83,Female,Rural,Under Graduate,18,6,Mobile,Middle Class,7,3,No,No,10,10,10,Yes,Yes,yes,85.5,3,3,Theory,10,Good
+84,Female,Rural,Under Graduate,20,5,Mobile,Middle Class,5,5,No,Yes,9,10,6,Yes,Yes,yes,55.5,5,5,Theory,10,Average
+85,Female,Urban,Post Graduate,25,5,Laptop,Middle Class,7,4,No,Yes,4,5,1,No,No,yes,75.5,3,4,Practical,7,Average
+86,Female,Urban,Under Graduate,19,8,Mobile,Middle Class,5,3,Yes,Yes,1,10,10,No,No,No,55.5,3,4,Practical,6,Average
+87,Female,Urban,Under Graduate,18,6,Mobile,Middle Class,4,3,Yes,Yes,6,7,5,Yes,No,yes,75.5,3,3,Practical,5,Average
+88,Female,Rural,Under Graduate,19,5,Mobile,Middle Class,3,4,No,Yes,4,7,5,Yes,No,No,55.5,3,3,Theory,8,Good
+89,Male,Rural,Post Graduate,23,5,Mobile,Middle Class,6,3,No,No,2,8,1,Yes,No,yes,65.5,4,2,Practical,7,Average
+90,Female,Rural,Under Graduate,18,5,Mobile,Middle Class,3,5,Yes,No,6,7,2,Yes,No,yes,55.5,5,5,Practical,9,Good
+91,Male,Urban,Under Graduate,19,5,Laptop,Middle Class,4,4,No,Yes,5,7,2,Yes,No,yes,75.5,4,3,Both,9,Average
+92,Female,Rural,Under Graduate,18,6,Mobile,Middle Class,5,2,No,Yes,5,6,2,Yes,No,No,75.5,5,5,Theory,10,Good
+93,Female,Urban,Under Graduate,20,5,Mobile,Middle Class,4,3,Yes,Yes,2,7,3,Yes,No,No,45.5,3,2,Practical,6,Average
+94,Female,Urban,Post Graduate,22,9,Laptop,Middle Class,4,3,No,Yes,6,7,1,No,Yes,No,85.5,3,3,Theory,7,Average
+95,Male,Urban,Under Graduate,19,6,Laptop,Middle Class,3,4,No,Yes,6,7,3,Yes,No,No,85.5,3,3,Both,6,Average
+96,Male,Urban,Under Graduate,18,4,Laptop,Middle Class,4,3,Yes,No,1,4,5,Yes,No,yes,35.5,1,1,Both,2,Bad
+97,Male,Rural,Post Graduate,21,7,Mobile,Middle Class,4,3,No,No,7,6,2,Yes,No,No,75.5,4,3,Practical,8,Average
+98,Female,Rural,Under Graduate,20,7,Mobile,Middle Class,5,3,No,Yes,4,8,3,Yes,No,No,75.5,5,5,Both,8,Average
+99,Male,Urban,School,18,5,Laptop,Middle Class,6,3,Yes,No,2,8,1,Yes,Yes,No,95.5,3,2,Practical,7,Good
+100,Male,Rural,Under Graduate,18,5,Laptop,Middle Class,4,3,Yes,Yes,1,6,3,Yes,Yes,No,95.5,1,1,Practical,2,Bad
+101,Female,Rural,Under Graduate,20,6,Mobile,Middle Class,4,2,No,No,2,7,2,Yes,No,No,55.5,2,4,Practical,10,Good
+102,Female,Rural,Under Graduate,19,9,Mobile,Middle Class,6,1,Yes,No,3,6,2,Yes,No,No,75.5,1,1,Practical,5,Average
+103,Female,Urban,Under Graduate,18,4,Mobile,Middle Class,3,4,No,No,5,7,1,No,Yes,No,55.5,4,4,Theory,9,Good
+104,Female,Urban,Under Graduate,19,7,Mobile,Middle Class,4,3,No,No,1,6,7,No,No,No,85.5,2,3,Both,4,Bad
+105,Male,Urban,Under Graduate,19,5,Laptop,Middle Class,4,5,No,No,4,7,5,No,No,No,75.5,2,2,Practical,4,Bad
+106,Male,Rural,Post Graduate,18,20,Laptop,Middle Class,4,3,No,Yes,4,10,6,Yes,No,No,65.5,3,4,Both,6,Average
+107,Male,Urban,Under Graduate,20,8,Laptop,Middle Class,4,4,No,Yes,5,8,3,Yes,Yes,yes,85.5,3,3,Theory,8,Average
+108,Female,Urban,Under Graduate,18,6,Laptop,Middle Class,5,4,No,Yes,5,7,9,Yes,Yes,yes,95.5,1,2,Practical,6,Bad
+109,Male,Urban,Under Graduate,19,7,Laptop,Middle Class,3,3,No,No,3,6,2,Yes,Yes,No,65.5,1,1,Practical,2,Bad
+110,Female,Urban,Post Graduate,19,7,Laptop,Middle Class,5,4,Yes,Yes,5,8,3,No,Yes,No,25.5,3,3,Practical,7,Average
+111,Male,Urban,Under Graduate,19,7,Desktop,Middle Class,4,4,Yes,No,3,5,2,Yes,No,yes,85.5,3,4,Both,8,Average
+112,Male,Urban,Under Graduate,18,8,Laptop,Middle Class,4,3,No,Yes,6,7,2,No,No,No,95.5,3,2,Practical,7,Bad
+113,Male,Urban,Under Graduate,19,8,Laptop,Middle Class,4,3,No,No,10,6,2,Yes,No,No,75.5,1,1,Theory,2,Bad
+114,Male,Rural,Under Graduate,19,7,Mobile,Middle Class,5,3,Yes,No,4,8,3,Yes,Yes,No,65.5,3,2,Both,6,Average
+115,Male,Urban,Under Graduate,19,7,Mobile,Middle Class,4,4,No,No,1,9,2,No,Yes,No,75.5,1,2,Practical,3,Average
+116,Male,Urban,School,19,7,Laptop,Middle Class,4,3,No,No,3,4,1,Yes,Yes,No,85.5,3,2,Both,6,Average
+117,Male,Urban,Under Graduate,18,8,Laptop,Middle Class,6,4,No,Yes,5,7,3,No,No,yes,75.5,3,3,Theory,7,Average
+118,Male,Urban,Under Graduate,19,6,Laptop,Middle Class,4,3,No,Yes,3,7,2,Yes,Yes,No,75.5,4,4,Theory,8,Good
+119,Male,Rural,Under Graduate,20,8,Mobile,Middle Class,4,2,No,Yes,3,8,2,Yes,No,yes,85.5,2,3,Both,7,Bad
+120,Male,Rural,Under Graduate,19,7,Laptop,Middle Class,5,4,No,Yes,8,6,1,Yes,No,yes,85.5,1,4,Practical,8,Bad
+121,Female,Rural,Under Graduate,18,8,Laptop,Middle Class,4,4,No,Yes,7,6,1,No,Yes,No,85.5,3,3,Theory,6,Average
+122,Male,Urban,Post Graduate,20,6,Laptop,Middle Class,6,2,Yes,Yes,5,8,3,No,Yes,yes,85.5,3,2,Both,5,Average
+123,Female,Urban,Under Graduate,18,7,Laptop,Middle Class,4,5,No,Yes,6,7,1,Yes,Yes,No,95.5,3,3,Practical,7,Good
+124,Male,Rural,Under Graduate,19,7,Laptop,Middle Class,4,4,Yes,Yes,4,8,2,Yes,No,No,95.5,3,3,Both,8,Average
+125,Male,Urban,Under Graduate,18,8,Laptop,Middle Class,4,4,No,Yes,2,6,1,No,No,No,95.5,1,3,Both,4,Bad
+126,Female,Urban,Under Graduate,19,7,Laptop,Middle Class,4,4,No,No,3,7,1,No,No,No,65.5,2,3,Theory,6,Average
+127,Male,Rural,Under Graduate,19,6,Mobile,Middle Class,5,3,Yes,No,3,8,2,Yes,Yes,No,75.5,3,3,Practical,8,Average
+128,Female,Urban,Under Graduate,18,8,Laptop,Middle Class,4,3,No,Yes,7,5,1,No,No,yes,95.5,3,3,Both,7,Good
+129,Female,Urban,Under Graduate,19,6,Mobile,Poor,4,2,No,No,4,6,2,Yes,No,No,85.5,2,3,Both,8,Good
+130,Male,Urban,Under Graduate,17,4,Laptop,Rich,4,5,Yes,Yes,2,8,6,No,Yes,No,95.5,1,1,Both,2,Bad
+131,Female,Urban,Under Graduate,18,7,Laptop,Middle Class,4,3,No,Yes,3,8,4,No,No,No,85.5,2,2,Practical,6,Bad
+132,Male,Urban,Under Graduate,19,8,Laptop,Middle Class,4,4,No,No,4,6,1,No,No,No,85.5,2,3,Both,5,Bad
+133,Male,Urban,Under Graduate,19,7,Mobile,Middle Class,4,2,Yes,No,8,9,1,Yes,No,yes,85.5,1,1,Both,8,Bad
+134,Female,Rural,Under Graduate,18,8,Laptop,Middle Class,4,4,No,No,4,7,1,Yes,Yes,No,85.5,4,3,Practical,9,Average
+135,Female,Urban,Under Graduate,18,8,Laptop,Middle Class,4,4,No,Yes,3,5,4,Yes,No,No,95.5,3,3,Practical,8,Average
+136,Male,Urban,Post Graduate,19,7,Laptop,Middle Class,9,3,No,Yes,4,5,2,Yes,Yes,No,85.5,3,3,Both,6,Good
+137,Female,Rural,Under Graduate,21,6,Mobile,Middle Class,4,4,No,Yes,5,6,2,No,No,yes,75.5,3,3,Theory,7,Average
+138,Female,Urban,Under Graduate,19,8,Laptop,Middle Class,4,5,No,Yes,8,8,1,No,Yes,yes,95.5,4,4,Practical,9,Good
+139,Female,Urban,Under Graduate,18,8,Mobile,Middle Class,4,4,Yes,Yes,3,8,3,No,Yes,No,65.5,3,2,Theory,4,Average
+140,Female,Urban,Under Graduate,18,6,Laptop,Middle Class,4,4,No,Yes,3,8,3,No,Yes,yes,95.5,3,4,Theory,7,Average
+141,Male,Urban,Under Graduate,19,8,Laptop,Middle Class,5,4,No,Yes,5,6,2,No,No,No,85.5,3,4,Practical,6,Bad
+142,Male,Rural,Under Graduate,18,8,Laptop,Middle Class,4,3,No,Yes,7,7,2,No,Yes,yes,85.5,3,2,Practical,6,Average
+143,Female,Urban,Under Graduate,22,4,Laptop,Middle Class,4,5,Yes,No,2,8,1,No,Yes,yes,85.5,2,2,Both,9,Bad
+144,Female,Urban,Under Graduate,20,7,Mobile,Middle Class,3,2,No,Yes,5,7,2,Yes,No,No,85.5,5,5,Both,8,Good
+145,Male,Urban,Post Graduate,19,8,Laptop,Middle Class,4,4,Yes,Yes,4,8,3,Yes,Yes,yes,55.5,3,4,Theory,7,Average
+146,Female,Urban,School,19,7,Mobile,Middle Class,4,3,No,Yes,4,8,2,Yes,Yes,No,75.5,2,1,Theory,6,Average
+147,Female,Urban,Under Graduate,19,8,Laptop,Middle Class,4,4,No,Yes,5,3,3,No,No,No,85.5,3,2,Practical,8,Average
+148,Male,Urban,Under Graduate,20,7,Laptop,Middle Class,3,4,Yes,Yes,8,8,4,Yes,No,No,85.5,2,3,Theory,6,Average
+149,Male,Urban,Under Graduate,20,6,Laptop,Middle Class,4,4,No,No,5,6,1,No,No,No,85.5,1,1,Practical,6,Bad
+150,Male,Urban,Under Graduate,20,7,Laptop,Middle Class,3,2,Yes,No,2,6,1,Yes,No,No,85.5,1,2,Practical,3,Bad
+151,Male,Rural,School,21,1,Laptop,Poor,10,3,No,No,2,8,10,Yes,No,No,35.5,2,2,Practical,6,Average
+152,Female,Urban,Under Graduate,20,8,Laptop,Middle Class,5,4,No,Yes,10,9,3,No,Yes,yes,95.5,2,2,Practical,6,Bad
+153,Female,Rural,Post Graduate,19,8,Laptop,Middle Class,6,3,No,No,2,6,1,No,No,yes,95.5,2,2,Practical,5,Bad
+154,Male,Urban,Under Graduate,20,7,Laptop,Middle Class,4,4,No,Yes,5,7,3,Yes,Yes,No,85.5,2,2,Both,6,Bad
+155,Male,Urban,Under Graduate,18,7,Laptop,Middle Class,3,4,Yes,No,6,7,1,No,Yes,yes,95.5,4,3,Both,8,Good
+156,Male,Urban,Under Graduate,19,7,Laptop,Middle Class,4,4,No,No,5,7,4,No,Yes,No,85.5,3,3,Both,8,Average
+157,Male,Urban,Under Graduate,19,20,Laptop,Middle Class,4,5,Yes,No,3,6,2,Yes,No,yes,95.5,3,2,Both,5,Bad
+158,Female,Urban,Under Graduate,20,14,Laptop,Middle Class,4,5,No,No,6,8,3,No,Yes,yes,75.5,2,2,Both,7,Bad
+159,Male,Rural,Under Graduate,21,8,Desktop,Middle Class,4,2,Yes,No,4,8,4,Yes,No,yes,85.5,3,3,Both,4,Bad
+160,Male,Urban,School,21,16,Laptop,Middle Class,6,5,Yes,Yes,2,6,3,No,Yes,No,95.5,4,4,Both,9,Good
+161,Female,Urban,Under Graduate,18,7,Laptop,Middle Class,4,5,No,Yes,5,8,8,No,Yes,yes,95.5,3,4,Theory,10,Average
+162,Male,Urban,Under Graduate,18,6,Laptop,Middle Class,4,3,Yes,No,6,6,3,Yes,No,No,85.5,3,4,Practical,6,Average
+163,Male,Rural,Under Graduate,19,8,Laptop,Middle Class,4,4,No,No,3,6,2,No,Yes,yes,75.5,2,3,Practical,7,Average
+164,Male,Urban,School,19,6,Laptop,Middle Class,3,4,No,No,1,6,5,No,Yes,yes,85.5,2,4,Both,7,Average
+165,Male,Urban,Under Graduate,20,6,Laptop,Middle Class,3,4,No,No,4,7,2,No,Yes,No,85.5,2,2,Theory,8,Average
+166,Female,Urban,Under Graduate,19,8,Laptop,Middle Class,5,5,No,No,5,8,2,No,Yes,yes,95.5,3,3,Both,10,Average
+167,Male,Urban,Under Graduate,19,8,Laptop,Middle Class,4,3,No,No,4,8,4,No,Yes,No,85.5,2,3,Practical,7,Average
+168,Female,Urban,Under Graduate,20,6,Laptop,Middle Class,4,4,Yes,No,2,7,2,No,Yes,yes,85.5,4,4,Practical,7,Average
+169,Female,Urban,Under Graduate,18,6,Laptop,Middle Class,4,5,Yes,Yes,5,6,4,No,Yes,yes,85.5,2,2,Both,9,Bad
+170,Male,Urban,Under Graduate,19,7,Laptop,Middle Class,4,4,No,No,1,7,3,Yes,Yes,No,95.5,2,3,Both,8,Average
+171,Male,Urban,Under Graduate,20,7,Laptop,Middle Class,3,5,Yes,Yes,2,7,3,Yes,Yes,No,75.5,3,2,Both,6,Bad
+172,Female,Urban,Under Graduate,19,8,Laptop,Middle Class,4,4,No,No,5,8,3,No,Yes,yes,85.5,1,1,Practical,7,Average
+173,Male,Urban,Under Graduate,20,7,Laptop,Rich,3,5,Yes,Yes,1,7,1,No,Yes,No,75.5,1,1,Both,8,Bad
+174,Female,Urban,Under Graduate,18,7,Laptop,Rich,4,4,Yes,No,4,8,7,No,Yes,No,95.5,3,3,Practical,5,Average
+175,Male,Urban,Under Graduate,21,2,Laptop,Middle Class,4,5,Yes,Yes,1,6,7,Yes,Yes,No,65.5,5,5,Both,10,Good
+176,Male,Urban,Under Graduate,19,7,Laptop,Rich,6,5,Yes,No,4,9,2,Yes,No,No,95.5,3,3,Practical,10,Good
+177,Male,Urban,Under Graduate,22,6,Laptop,Middle Class,8,5,Yes,Yes,4,7,2,Yes,No,yes,75.5,4,3,Theory,8,Average
+178,Male,Urban,Under Graduate,20,8,Laptop,Middle Class,3,4,Yes,No,7,8,2,No,Yes,No,95.5,4,3,Practical,8,Average
+179,Male,Urban,Under Graduate,22,14,Laptop,Middle Class,4,3,Yes,Yes,7,7,5,Yes,Yes,No,75.5,2,2,Practical,6,Average
+180,Female,Urban,Under Graduate,18,8,Laptop,Middle Class,5,4,No,No,3,8,3,Yes,No,No,75.5,1,1,Practical,7,Average
+181,Female,Urban,Under Graduate,19,8,Laptop,Middle Class,5,3,No,Yes,8,6,5,No,Yes,No,85.5,1,1,Both,5,Average
+182,Male,Urban,Under Graduate,20,7,Laptop,Rich,4,4,Yes,No,1,8,6,No,No,No,75.5,2,1,Theory,5,Bad
+183,Male,Rural,Under Graduate,19,7,Laptop,Middle Class,4,5,Yes,No,4,5,1,Yes,No,No,85.5,3,3,Both,8,Average
+184,Male,Urban,School,19,5,Laptop,Middle Class,3,3,No,Yes,1,6,1,No,Yes,No,75.5,1,2,Practical,6,Bad
+185,Male,Urban,Under Graduate,21,4,Laptop,Rich,4,5,Yes,No,2,8,1,No,No,No,95.5,3,5,Both,10,Good
+186,Male,Urban,Under Graduate,20,6,Laptop,Middle Class,5,5,No,Yes,2,8,3,No,Yes,No,65.5,1,1,Practical,5,Bad
+187,Male,Urban,Under Graduate,20,7,Laptop,Middle Class,3,5,No,No,8,7,1,Yes,No,No,85.5,2,2,Practical,7,Average
+188,Male,Urban,Under Graduate,18,8,Mobile,Middle Class,5,4,No,Yes,4,7,2,Yes,No,No,75.5,3,1,Both,7,Average
+189,Male,Urban,Under Graduate,19,8,Laptop,Middle Class,5,5,No,No,2,7,1,Yes,Yes,No,95.5,2,1,Both,8,Bad
+190,Female,Urban,Under Graduate,19,8,Laptop,Middle Class,4,5,No,Yes,6,7,2,No,Yes,No,95.5,3,3,Practical,8,Average
+191,Male,Urban,Under Graduate,19,20,Laptop,Middle Class,4,5,No,No,4,10,2,Yes,Yes,No,95.5,3,2,Practical,6,Bad
+192,Male,Urban,Under Graduate,21,7,Laptop,Middle Class,4,4,No,No,4,6,1,Yes,Yes,No,75.5,2,2,Practical,9,Average
+193,Male,Urban,Under Graduate,18,5,Laptop,Middle Class,4,4,Yes,No,7,7,2,Yes,Yes,No,95.5,3,3,Both,7,Average
+194,Female,Urban,Under Graduate,22,6,Laptop,Middle Class,3,5,Yes,No,5,7,2,No,Yes,No,75.5,3,1,Theory,7,Bad
+195,Male,Urban,Under Graduate,19,8,Laptop,Middle Class,3,5,Yes,Yes,7,4,3,Yes,Yes,yes,95.5,3,2,Both,8,Average
+196,Female,Urban,Under Graduate,19,3,Laptop,Middle Class,5,5,No,Yes,9,7,1,No,Yes,yes,75.5,3,3,Both,8,Good
+197,Male,Urban,Under Graduate,17,6,Laptop,Middle Class,4,5,Yes,Yes,5,7,1,Yes,Yes,No,85.5,4,4,Practical,8,Average
+198,Female,Urban,School,20,7,Laptop,Middle Class,5,5,No,No,4,5,2,No,Yes,yes,85.5,2,3,Both,5,Average
+199,Female,Urban,Under Graduate,21,5,Laptop,Middle Class,4,4,No,No,10,1,3,Yes,No,yes,85.5,3,4,Practical,6,Average
+200,Male,Rural,School,17,5,Desktop,Middle Class,6,4,No,Yes,5,10,6,Yes,Yes,yes,65.5,3,3,Practical,6,Average
+201,Female,Urban,Under Graduate,20,8,Laptop,Middle Class,3,4,No,No,6,8,1,No,No,No,75.5,3,2,Both,8,Bad
+202,Female,Urban,Under Graduate,19,6,Laptop,Middle Class,3,4,No,No,9,7,2,No,Yes,No,95.5,2,3,Theory,7,Average
+203,Male,Urban,Under Graduate,20,11,Laptop,Middle Class,4,5,No,No,5,7,3,No,No,No,85.5,3,2,Theory,8,Good
+204,Female,Urban,School,18,6,Laptop,Middle Class,6,4,No,Yes,4,9,5,No,No,No,95.5,3,3,Both,10,Average
+205,Female,Urban,School,19,3,Laptop,Middle Class,4,5,Yes,No,8,6,3,No,Yes,yes,75.5,3,4,Theory,7,Good
+206,Female,Rural,Under Graduate,19,7,Mobile,Poor,6,2,No,Yes,6,5,2,Yes,No,yes,75.5,5,5,Theory,10,Good
+207,Female,Rural,Under Graduate,21,5,Laptop,Middle Class,3,2,No,No,5,7,4,No,No,yes,85.5,2,3,Both,6,Bad
+208,Male,Rural,Under Graduate,19,7,Laptop,Middle Class,7,2,No,No,10,7,1,No,Yes,No,75.5,1,3,Both,2,Bad
+209,Female,Urban,Under Graduate,18,8,Laptop,Middle Class,4,5,No,Yes,6,7,4,Yes,No,yes,95.5,1,1,Both,7,Average
+210,Female,Urban,Under Graduate,19,6,Mobile,Middle Class,4,4,No,No,3,8,1,No,Yes,yes,75.5,3,4,Theory,8,Average
+211,Female,Urban,Under Graduate,20,9,Laptop,Middle Class,5,3,No,No,3,4,8,No,No,No,95.5,3,2,Both,4,Bad
+212,Male,Urban,Under Graduate,19,7,Laptop,Middle Class,4,4,Yes,No,2,7,4,No,Yes,No,95.5,3,2,Both,6,Bad
+213,Male,Urban,Under Graduate,19,6,Laptop,Middle Class,3,3,Yes,No,4,6,3,Yes,Yes,No,95.5,3,3,Both,8,Average
+214,Male,Urban,Under Graduate,20,1,Laptop,Middle Class,6,5,Yes,No,5,5,3,Yes,Yes,No,95.5,3,3,Theory,8,Average
+215,Male,Urban,Under Graduate,19,5,Laptop,Middle Class,4,5,Yes,No,5,8,2,Yes,Yes,yes,85.5,2,3,Both,10,Bad
+216,Male,Urban,Under Graduate,19,5,Laptop,Rich,3,5,No,No,4,7,3,Yes,Yes,No,95.5,3,3,Theory,7,Average
+217,Female,Urban,Post Graduate,19,7,Laptop,Middle Class,4,3,Yes,No,1,4,6,Yes,Yes,yes,85.5,4,1,Practical,4,Bad
+218,Male,Urban,Under Graduate,19,9,Laptop,Middle Class,6,5,Yes,Yes,8,7,1,No,Yes,No,95.5,2,1,Both,8,Bad
+219,Male,Urban,Under Graduate,20,7,Laptop,Middle Class,3,4,No,No,4,7,4,Yes,Yes,No,95.5,4,4,Both,9,Average
+220,Female,Urban,Under Graduate,18,7,Laptop,Middle Class,4,5,Yes,Yes,3,10,2,Yes,Yes,No,95.5,4,3,Practical,7,Average
+221,Male,Urban,School,20,7,Laptop,Middle Class,4,5,Yes,Yes,3,6,2,Yes,Yes,No,95.5,1,1,Both,5,Bad
+222,Male,Urban,Under Graduate,20,8,Laptop,Middle Class,5,4,Yes,Yes,3,8,5,Yes,No,No,65.5,3,3,Practical,6,Good
+223,Male,Urban,Under Graduate,20,7,Laptop,Middle Class,5,4,Yes,Yes,3,6,4,Yes,Yes,No,75.5,2,2,Practical,4,Average
+224,Male,Urban,Under Graduate,19,7,Laptop,Middle Class,4,5,No,No,4,6,1,No,Yes,yes,85.5,3,3,Both,8,Average
+225,Male,Urban,Under Graduate,21,9,Laptop,Middle Class,5,5,Yes,No,4,7,1,No,Yes,No,85.5,3,3,Both,8,Bad
+226,Male,Urban,Under Graduate,19,7,Laptop,Middle Class,4,4,No,No,5,8,2,Yes,Yes,yes,85.5,3,2,Practical,7,Bad
+227,Female,Urban,Under Graduate,19,7,Laptop,Middle Class,3,3,Yes,No,3,5,4,No,Yes,No,85.5,3,2,Practical,5,Average
+228,Male,Rural,School,19,7,Mobile,Middle Class,4,2,No,Yes,3,6,1,Yes,No,No,85.5,2,4,Theory,7,Average
+229,Female,Urban,Under Graduate,20,20,Laptop,Middle Class,4,5,Yes,No,3,8,2,No,Yes,No,95.5,1,2,Practical,10,Average
+230,Male,Urban,Under Graduate,17,5,Laptop,Middle Class,4,3,No,Yes,2,7,1,Yes,Yes,yes,85.5,2,3,Both,5,Bad
+231,Male,Urban,School,17,5,Laptop,Middle Class,4,5,Yes,No,2,8,3,Yes,Yes,yes,75.5,3,3,Theory,7,Average
+232,Male,Urban,Under Graduate,18,7,Laptop,Middle Class,6,5,No,No,4,6,2,Yes,No,yes,75.5,3,2,Practical,6,Bad
+233,Male,Urban,Under Graduate,18,6,Laptop,Middle Class,3,4,Yes,No,3,6,2,No,No,yes,75.5,3,3,Both,7,Good
+234,Female,Rural,Under Graduate,19,7,Mobile,Middle Class,4,3,No,Yes,7,6,1,No,No,No,95.5,3,3,Practical,8,Average
+235,Male,Urban,School,18,7,Laptop,Middle Class,3,4,No,Yes,4,6,2,Yes,Yes,No,95.5,4,4,Practical,6,Average
+236,Female,Urban,Under Graduate,20,8,Laptop,Middle Class,3,4,No,Yes,3,8,9,No,Yes,No,75.5,3,3,Both,6,Bad
+237,Male,Urban,Under Graduate,20,7,Mobile,Middle Class,3,4,Yes,Yes,3,7,1,Yes,Yes,No,85.5,3,2,Practical,7,Bad
+238,Male,Urban,Under Graduate,17,5,Laptop,Middle Class,4,3,Yes,No,2,5,2,Yes,Yes,yes,85.5,3,2,Both,6,Bad
+239,Male,Urban,Under Graduate,20,8,Laptop,Middle Class,5,4,No,No,4,5,3,No,Yes,No,85.5,4,4,Both,8,Good
+240,Female,Urban,Under Graduate,17,6,Laptop,Middle Class,5,4,No,No,8,4,2,Yes,Yes,yes,85.5,2,1,Both,7,Bad
+241,Female,Urban,Post Graduate,38,8,Laptop,Middle Class,4,5,No,Yes,10,5,3,No,Yes,No,95.5,5,5,Practical,9,Good
+242,Male,Urban,Under Graduate,17,6,Desktop,Middle Class,5,4,No,Yes,5,7,8,Yes,Yes,yes,75.5,2,3,Practical,6,Average
+243,Female,Urban,Under Graduate,20,8,Laptop,Middle Class,3,4,No,No,3,8,9,No,Yes,No,75.5,2,3,Both,6,Bad
+244,Male,Rural,Under Graduate,19,6,Laptop,Middle Class,4,3,Yes,Yes,4,7,1,Yes,Yes,No,85.5,3,3,Both,6,Average
+245,Male,Urban,Under Graduate,20,7,Laptop,Middle Class,4,5,No,No,2,5,5,Yes,No,yes,85.5,3,3,Practical,6,Average
+246,Male,Urban,School,17,6,Laptop,Middle Class,4,4,Yes,No,1,10,8,Yes,Yes,No,75.5,2,3,Practical,7,Average
+247,Male,Rural,Under Graduate,19,20,Laptop,Middle Class,4,2,Yes,Yes,2,9,3,Yes,No,No,75.5,3,2,Practical,7,Bad
+248,Male,Rural,Under Graduate,20,8,Mobile,Middle Class,5,2,No,Yes,3,5,1,No,No,No,75.5,1,4,Both,4,Average
+249,Male,Urban,Under Graduate,20,8,Laptop,Middle Class,4,4,Yes,Yes,2,7,2,No,No,yes,75.5,2,2,Practical,5,Average
+250,Female,Urban,Under Graduate,20,8,Laptop,Middle Class,10,5,Yes,Yes,7,6,1,No,Yes,No,95.5,2,1,Practical,8,Average
+251,Male,Urban,Under Graduate,18,8,Laptop,Middle Class,4,2,Yes,No,3,7,1,Yes,No,yes,65.5,3,1,Practical,7,Bad
+252,Male,Urban,Under Graduate,20,7,Laptop,Middle Class,4,3,Yes,Yes,3,7,2,Yes,Yes,yes,85.5,3,3,Both,6,Average
+253,Female,Urban,Under Graduate,20,8,Laptop,Middle Class,4,3,No,Yes,1,5,1,Yes,No,No,85.5,4,3,Practical,7,Average
+254,Male,Rural,Under Graduate,19,7,Laptop,Middle Class,4,3,No,Yes,2,7,4,No,Yes,No,85.5,2,3,Theory,7,Average
+255,Male,Rural,Under Graduate,20,18,Laptop,Middle Class,3,4,Yes,Yes,6,8,2,No,Yes,No,75.5,2,1,Both,4,Average
+256,Male,Urban,Under Graduate,18,5,Laptop,Middle Class,4,4,Yes,No,2,5,3,Yes,No,yes,85.5,2,3,Practical,4,Bad
+257,Male,Rural,Under Graduate,19,7,Laptop,Middle Class,4,1,No,No,10,5,2,Yes,Yes,No,85.5,1,1,Practical,4,Bad
+258,Male,Urban,Under Graduate,19,7,Laptop,Middle Class,3,4,Yes,Yes,4,6,2,No,Yes,yes,85.5,3,2,Practical,8,Bad
+259,Female,Urban,Under Graduate,19,5,Mobile,Middle Class,6,5,No,No,8,8,5,Yes,Yes,No,75.5,4,4,Practical,10,Good
+260,Female,Urban,Under Graduate,18,5,Laptop,Middle Class,6,5,No,Yes,2,6,2,No,Yes,No,85.5,2,1,Both,2,Bad
+261,Male,Urban,Under Graduate,20,7,Laptop,Rich,5,4,No,Yes,3,5,3,No,No,No,75.5,4,2,Both,7,Average
+262,Male,Urban,Under Graduate,18,8,Laptop,Middle Class,4,4,Yes,Yes,3,6,2,No,No,No,85.5,1,1,Both,5,Average
+263,Female,Urban,Under Graduate,20,7,Laptop,Middle Class,5,5,No,Yes,5,6,3,No,Yes,yes,55.5,3,4,Theory,7,Average
+264,Female,Rural,Under Graduate,17,6,Laptop,Middle Class,4,2,No,No,3,7,2,Yes,Yes,No,75.5,3,3,Practical,7,Good
+265,Male,Urban,School,18,6,Laptop,Middle Class,4,3,No,Yes,4,7,1,No,Yes,No,85.5,1,3,Practical,6,Bad
+266,Female,Urban,Under Graduate,18,6,Laptop,Middle Class,3,5,No,Yes,5,7,3,No,Yes,No,95.5,5,5,Both,10,Good
+267,Male,Rural,Under Graduate,18,6,Laptop,Middle Class,3,3,Yes,Yes,8,1,1,Yes,Yes,No,95.5,3,3,Practical,4,Average
+268,Male,Urban,Under Graduate,20,7,Laptop,Middle Class,4,4,No,No,1,9,10,No,Yes,yes,65.5,1,1,Both,2,Bad
+269,Female,Urban,Under Graduate,19,8,Laptop,Middle Class,4,5,Yes,No,4,8,3,No,Yes,No,75.5,3,1,Both,7,Average
+270,Male,Urban,Under Graduate,19,8,Laptop,Middle Class,5,4,No,No,10,10,4,No,Yes,No,75.5,4,5,Both,10,Good
+271,Female,Urban,Under Graduate,18,5,Mobile,Middle Class,6,4,No,Yes,6,5,2,No,No,No,85.5,3,3,Theory,7,Average
+272,Male,Urban,School,18,7,Laptop,Middle Class,4,5,No,Yes,10,4,1,No,Yes,No,95.5,4,3,Theory,9,Good
+273,Male,Urban,Under Graduate,18,4,Laptop,Middle Class,4,5,No,Yes,6,7,2,Yes,Yes,yes,75.5,3,5,Practical,8,Average
+274,Male,Urban,Under Graduate,18,5,Laptop,Middle Class,4,4,No,Yes,3,7,4,Yes,Yes,No,85.5,3,3,Practical,6,Average
+275,Male,Urban,Under Graduate,20,8,Laptop,Middle Class,6,3,Yes,Yes,6,6,1,No,Yes,No,95.5,4,3,Both,6,Good
+276,Male,Rural,Under Graduate,21,8,Mobile,Middle Class,5,4,No,Yes,2,8,2,No,Yes,yes,65.5,3,3,Both,6,Good
+277,Male,Urban,Under Graduate,19,9,Laptop,Middle Class,4,5,Yes,Yes,6,8,1,Yes,Yes,yes,85.5,5,3,Practical,5,Bad
+278,Female,Urban,Under Graduate,18,7,Laptop,Middle Class,4,4,No,Yes,3,6,5,No,Yes,No,65.5,2,5,Both,7,Good
+279,Male,Urban,Under Graduate,20,7,Laptop,Middle Class,5,2,Yes,Yes,2,6,2,No,No,yes,85.5,3,3,Practical,6,Average
+280,Male,Urban,School,19,6,Laptop,Middle Class,4,5,No,Yes,3,7,4,Yes,Yes,yes,75.5,3,1,Theory,6,Average
+281,Male,Rural,Under Graduate,19,3,Laptop,Middle Class,8,4,Yes,No,2,10,1,Yes,No,yes,95.5,1,1,Practical,8,Bad
+282,Female,Rural,Under Graduate,20,8,Laptop,Middle Class,4,4,No,No,4,6,3,No,Yes,yes,65.5,4,3,Both,7,Average
+283,Male,Urban,Under Graduate,20,7,Laptop,Middle Class,3,4,No,Yes,4,8,2,Yes,Yes,yes,85.5,3,2,Both,8,Good
+284,Male,Urban,Under Graduate,20,6,Laptop,Middle Class,3,5,Yes,Yes,4,6,4,Yes,No,No,75.5,3,3,Both,8,Average
+285,Male,Urban,Under Graduate,18,4,Laptop,Middle Class,4,3,Yes,No,6,8,1,No,No,No,85.5,2,1,Practical,3,Bad
+286,Female,Urban,Under Graduate,20,8,Laptop,Middle Class,4,3,No,No,3,7,2,No,Yes,yes,65.5,2,4,Both,6,Average
+287,Male,Rural,Under Graduate,18,6,Laptop,Middle Class,3,3,No,No,6,7,3,Yes,Yes,No,75.5,4,4,Both,6,Average
+288,Female,Urban,School,20,7,Laptop,Middle Class,4,4,No,No,4,8,4,Yes,Yes,No,75.5,2,2,Practical,8,Average
+289,Male,Urban,School,20,8,Laptop,Middle Class,4,4,No,Yes,1,6,4,No,Yes,yes,65.5,1,1,Theory,7,Bad
+290,Male,Rural,Under Graduate,17,5,Laptop,Rich,5,5,Yes,No,7,8,3,Yes,Yes,yes,95.5,4,3,Theory,7,Average
+291,Male,Urban,Under Graduate,19,7,Laptop,Middle Class,5,3,Yes,No,2,6,3,No,Yes,yes,75.5,3,2,Practical,7,Bad
+292,Female,Rural,Under Graduate,20,7,Laptop,Poor,5,4,No,Yes,6,6,1,Yes,Yes,yes,75.5,5,5,Practical,9,Good
+293,Male,Urban,Under Graduate,19,5,Laptop,Middle Class,4,4,Yes,Yes,2,6,1,No,No,No,95.5,3,1,Practical,6,Average
+294,Male,Urban,Under Graduate,20,7,Laptop,Middle Class,4,5,No,Yes,2,4,4,No,No,yes,35.5,1,1,Practical,8,Good
+295,Male,Rural,Under Graduate,20,6,Laptop,Middle Class,5,2,No,Yes,3,7,2,Yes,No,No,85.5,3,2,Practical,4,Bad
+296,Male,Urban,Under Graduate,19,8,Laptop,Middle Class,4,4,No,Yes,6,7,1,No,Yes,yes,85.5,3,4,Both,7,Bad
+297,Female,Urban,Under Graduate,21,7,Laptop,Middle Class,5,4,No,No,4,10,2,No,Yes,No,75.5,3,3,Both,8,Average
+298,Female,Rural,Under Graduate,18,7,Laptop,Middle Class,4,3,Yes,Yes,7,8,5,Yes,Yes,No,75.5,2,2,Both,4,Bad
+299,Male,Urban,School,19,6,Laptop,Middle Class,5,4,No,Yes,1,7,2,Yes,No,No,85.5,1,1,Practical,2,Bad
+300,Male,Urban,Under Graduate,18,6,Laptop,Middle Class,3,2,No,No,3,7,4,Yes,No,No,85.5,3,2,Both,3,Bad
+301,Female,Urban,Under Graduate,20,8,Laptop,Middle Class,5,5,No,No,3,8,3,Yes,Yes,yes,85.5,3,3,Both,6,Average
+302,Male,Rural,Under Graduate,20,8,Mobile,Middle Class,4,2,No,No,5,3,1,No,Yes,yes,25.5,2,3,Theory,2,Average
+303,Male,Rural,Under Graduate,20,6,Laptop,Middle Class,10,4,Yes,Yes,3,7,2,No,Yes,yes,75.5,3,3,Practical,8,Bad
+304,Male,Urban,Under Graduate,20,20,Laptop,Middle Class,9,2,No,No,3,4,2,No,Yes,No,85.5,1,1,Both,8,Bad
+305,Male,Rural,Under Graduate,22,9,Laptop,Middle Class,5,3,Yes,Yes,3,7,2,Yes,No,yes,65.5,3,3,Practical,8,Average
+306,Male,Urban,Post Graduate,21,8,Laptop,Middle Class,4,5,Yes,Yes,2,7,3,Yes,Yes,yes,95.5,4,3,Both,9,Average
+307,Female,Urban,Under Graduate,18,6,Laptop,Middle Class,4,3,No,No,9,7,2,No,Yes,No,85.5,3,3,Both,5,Average
+308,Male,Urban,Under Graduate,20,7,Laptop,Middle Class,4,4,No,Yes,4,6,3,No,Yes,yes,75.5,4,4,Both,8,Average
+309,Female,Urban,Under Graduate,20,4,Laptop,Middle Class,3,5,No,No,8,6,6,No,Yes,No,85.5,2,3,Both,8,Good
+310,Male,Urban,Under Graduate,20,6,Laptop,Middle Class,4,3,Yes,Yes,6,7,2,Yes,Yes,yes,75.5,3,4,Practical,9,Bad
+311,Female,Rural,Under Graduate,17,7,Laptop,Middle Class,4,3,Yes,Yes,8,6,2,No,Yes,No,85.5,5,5,Theory,8,Good
+312,Male,Urban,Under Graduate,21,20,Mobile,Middle Class,3,4,No,No,5,10,3,Yes,Yes,No,85.5,3,3,Practical,7,Good
+313,Female,Urban,Under Graduate,19,6,Laptop,Middle Class,3,3,No,Yes,6,7,1,No,Yes,yes,95.5,3,2,Both,8,Bad
+314,Male,Rural,Under Graduate,21,8,Laptop,Middle Class,5,3,No,No,5,8,2,Yes,Yes,yes,65.5,3,3,Both,7,Average
+315,Female,Urban,Under Graduate,20,8,Laptop,Middle Class,2,4,Yes,No,10,6,1,No,Yes,yes,75.5,3,4,Both,6,Average
+316,Male,Urban,Under Graduate,21,7,Laptop,Middle Class,4,4,Yes,No,5,6,2,No,No,yes,85.5,4,5,Both,8,Average
+317,Male,Urban,Under Graduate,20,8,Laptop,Middle Class,5,5,Yes,Yes,6,6,2,Yes,Yes,No,75.5,3,3,Practical,6,Good
+318,Female,Urban,Under Graduate,18,4,Laptop,Middle Class,3,4,No,No,5,8,1,No,Yes,No,85.5,3,3,Theory,8,Good
+319,Male,Urban,Under Graduate,21,5,Laptop,Middle Class,5,4,No,No,3,7,9,Yes,Yes,No,65.5,2,1,Practical,4,Bad
+320,Male,Urban,Under Graduate,20,9,Laptop,Middle Class,5,4,Yes,Yes,2,8,2,No,No,yes,75.5,4,4,Both,8,Average
+321,Male,Urban,School,20,8,Laptop,Middle Class,4,5,No,No,3,5,4,Yes,No,No,85.5,3,2,Both,8,Bad
+322,Female,Urban,Under Graduate,17,7,Laptop,Rich,10,4,No,Yes,3,7,2,No,Yes,No,85.5,2,3,Practical,5,Bad
+323,Male,Urban,Under Graduate,20,7,Laptop,Middle Class,4,3,Yes,Yes,3,7,2,Yes,No,No,75.5,3,2,Practical,5,Average
+324,Male,Urban,Under Graduate,21,7,Laptop,Middle Class,3,2,No,No,1,5,2,No,No,No,65.5,1,3,Theory,6,Good
+325,Male,Urban,Under Graduate,21,6,Laptop,Middle Class,4,3,Yes,Yes,6,6,1,Yes,Yes,yes,35.5,1,3,Theory,6,Bad
+326,Male,Urban,Under Graduate,19,8,Laptop,Middle Class,4,5,Yes,Yes,2,5,1,No,Yes,No,75.5,1,1,Practical,6,Average
+327,Male,Urban,Under Graduate,20,7,Laptop,Middle Class,4,4,Yes,No,4,4,3,No,Yes,No,85.5,3,3,Both,6,Average
+328,Female,Urban,School,19,7,Laptop,Middle Class,4,4,No,Yes,4,8,2,No,Yes,yes,95.5,3,2,Both,5,Bad
+329,Female,Urban,School,19,7,Laptop,Middle Class,5,5,No,Yes,2,7,2,No,No,yes,85.5,1,1,Both,6,Average
+330,Male,Rural,Under Graduate,20,8,Laptop,Middle Class,5,4,No,No,1,8,3,No,Yes,yes,75.5,1,1,Both,8,Good
+331,Female,Urban,Under Graduate,20,9,Laptop,Middle Class,4,3,No,No,3,7,4,No,Yes,No,75.5,2,2,Theory,5,Average
+332,Female,Urban,School,20,6,Laptop,Middle Class,4,5,Yes,Yes,5,9,3,Yes,Yes,yes,85.5,3,1,Both,6,Bad
+333,Female,Urban,Under Graduate,19,7,Laptop,Rich,4,5,No,Yes,5,4,2,No,Yes,yes,85.5,3,2,Both,4,Bad
+334,Female,Urban,Under Graduate,19,7,Laptop,Middle Class,4,4,No,No,2,8,3,No,No,yes,85.5,3,2,Theory,9,Average
+335,Male,Urban,Under Graduate,18,6,Laptop,Middle Class,4,5,Yes,Yes,1,6,4,Yes,No,yes,75.5,3,3,Practical,4,Average
+336,Male,Urban,Under Graduate,20,7,Laptop,Middle Class,4,4,Yes,No,4,4,2,Yes,Yes,No,85.5,3,3,Both,9,Average
+337,Male,Urban,Under Graduate,20,7,Mobile,Middle Class,4,5,No,Yes,1,7,3,No,Yes,No,85.5,2,3,Both,6,Average
+338,Male,Urban,Under Graduate,19,8,Mobile,Middle Class,4,4,Yes,No,6,8,1,Yes,No,No,85.5,4,4,Practical,8,Bad
+339,Male,Rural,Under Graduate,20,9,Laptop,Middle Class,3,4,Yes,No,4,9,3,No,Yes,No,85.5,2,2,Practical,6,Average
+340,Male,Urban,Under Graduate,20,6,Desktop,Middle Class,3,5,No,No,10,8,2,Yes,Yes,No,95.5,2,1,Both,8,Bad
+341,Male,Rural,Under Graduate,19,9,Laptop,Middle Class,4,1,Yes,Yes,2,7,2,No,Yes,No,85.5,3,3,Both,9,Average
+342,Female,Urban,Under Graduate,19,6,Laptop,Middle Class,3,3,No,Yes,5,9,3,No,Yes,No,85.5,1,2,Both,3,Average
+343,Male,Urban,Under Graduate,20,7,Laptop,Middle Class,4,5,Yes,No,4,8,4,Yes,Yes,No,75.5,3,3,Practical,7,Average
+344,Female,Urban,Under Graduate,20,6,Laptop,Middle Class,4,5,Yes,No,4,7,2,No,No,yes,85.5,3,4,Practical,7,Good
+345,Female,Urban,Under Graduate,20,7,Mobile,Middle Class,4,3,Yes,No,2,5,5,No,Yes,yes,95.5,2,3,Both,8,Average
+346,Female,Rural,School,20,8,Laptop,Middle Class,10,3,Yes,Yes,5,6,2,No,Yes,yes,75.5,4,4,Practical,8,Good
+347,Male,Urban,School,20,6,Laptop,Middle Class,4,4,Yes,No,5,6,2,Yes,Yes,No,55.5,2,2,Practical,6,Average
+348,Male,Rural,Under Graduate,19,8,Mobile,Middle Class,4,4,No,No,6,7,3,Yes,No,No,85.5,2,3,Practical,5,Bad
+349,Male,Urban,Under Graduate,20,1,Desktop,Middle Class,3,5,Yes,Yes,1,7,1,Yes,Yes,No,65.5,3,5,Both,10,Good
+350,Female,Urban,Under Graduate,21,8,Mobile,Middle Class,4,4,No,No,7,7,2,Yes,No,No,85.5,4,3,Practical,7,Average
+351,Female,Rural,Under Graduate,21,9,Laptop,Middle Class,3,3,No,No,6,7,3,Yes,Yes,No,75.5,3,2,Both,4,Average
+352,Male,Urban,Under Graduate,19,7,Mobile,Middle Class,4,4,No,Yes,4,6,3,No,Yes,yes,85.5,3,4,Both,8,Average
+353,Male,Urban,Under Graduate,22,8,Mobile,Middle Class,8,3,Yes,Yes,3,6,2,Yes,No,No,75.5,3,3,Both,8,Average
+354,Female,Urban,Under Graduate,18,7,Laptop,Rich,4,5,Yes,Yes,4,7,3,No,Yes,yes,85.5,3,3,Theory,7,Good
+355,Female,Urban,Under Graduate,19,7,Laptop,Middle Class,5,4,Yes,Yes,1,5,3,No,No,No,75.5,1,1,Theory,8,Bad
+356,Female,Urban,Under Graduate,21,3,Laptop,Middle Class,10,5,No,Yes,3,8,1,No,No,No,85.5,2,2,Practical,6,Bad
+357,Male,Urban,Under Graduate,20,7,Laptop,Rich,4,4,Yes,No,3,3,3,No,No,No,75.5,4,4,Both,10,Bad
+358,Male,Rural,School,19,5,Laptop,Middle Class,8,2,No,No,4,7,1,Yes,Yes,No,85.5,2,4,Both,5,Bad
+359,Female,Urban,Under Graduate,20,7,Laptop,Middle Class,4,4,No,No,3,6,5,Yes,Yes,yes,75.5,2,2,Theory,6,Bad
+360,Female,Urban,Under Graduate,22,4,Laptop,Middle Class,4,4,Yes,No,3,6,7,Yes,No,No,65.5,4,4,Practical,10,Good
+361,Female,Urban,Under Graduate,21,8,Mobile,Middle Class,4,4,Yes,Yes,5,4,3,No,Yes,yes,85.5,3,3,Theory,9,Average
+362,Male,Urban,Under Graduate,20,8,Laptop,Middle Class,4,3,Yes,Yes,4,5,3,Yes,No,No,75.5,2,2,Both,6,Average
+363,Female,Urban,Under Graduate,21,9,Mobile,Middle Class,5,4,No,Yes,4,7,3,Yes,No,No,15.5,2,1,Theory,5,Bad
+364,Male,Urban,Under Graduate,20,8,Laptop,Middle Class,2,5,Yes,Yes,3,7,4,Yes,Yes,No,75.5,5,3,Both,8,Average
+365,Male,Urban,Under Graduate,20,8,Laptop,Middle Class,6,4,No,Yes,3,7,1,Yes,No,No,85.5,1,1,Theory,6,Average
+366,Male,Urban,School,19,7,Laptop,Rich,3,4,Yes,No,2,8,4,No,No,yes,95.5,3,1,Both,8,Average
+367,Female,Urban,Post Graduate,23,20,Mobile,Middle Class,5,5,No,No,1,9,8,Yes,No,No,85.5,2,1,Theory,5,Bad
+368,Male,Urban,Under Graduate,20,7,Laptop,Middle Class,5,5,No,No,6,7,3,No,Yes,No,75.5,3,3,Practical,7,Average
+369,Female,Urban,Under Graduate,20,9,Laptop,Middle Class,4,4,No,Yes,3,6,2,Yes,Yes,No,85.5,3,2,Both,6,Average
+370,Male,Urban,School,18,4,Laptop,Middle Class,4,5,Yes,No,2,7,3,No,No,No,85.5,2,1,Theory,8,Average
+371,Male,Rural,Under Graduate,19,7,Laptop,Middle Class,4,5,No,Yes,5,7,5,Yes,No,No,95.5,1,2,Theory,10,Average
+372,Male,Urban,Under Graduate,19,5,Laptop,Middle Class,3,5,No,No,5,6,1,No,Yes,yes,85.5,2,3,Practical,7,Bad
+373,Male,Rural,Under Graduate,19,5,Mobile,Middle Class,4,2,Yes,Yes,5,6,2,Yes,No,No,85.5,3,3,Practical,6,Good
+374,Female,Urban,Under Graduate,20,7,Laptop,Rich,4,4,Yes,Yes,3,8,3,No,Yes,yes,85.5,3,4,Practical,6,Average
+375,Female,Rural,Under Graduate,20,7,Laptop,Middle Class,5,3,No,No,5,8,5,No,Yes,No,85.5,1,1,Practical,2,Bad
+376,Male,Rural,Under Graduate,21,7,Laptop,Middle Class,6,4,Yes,No,4,6,3,Yes,Yes,No,85.5,3,2,Practical,8,Bad
+377,Male,Urban,Under Graduate,20,4,Laptop,Rich,4,5,No,No,1,6,2,Yes,No,No,65.5,1,1,Both,8,Bad
+378,Male,Urban,Under Graduate,18,6,Laptop,Middle Class,4,3,No,No,7,7,3,No,No,No,85.5,1,1,Practical,2,Bad
+379,Female,Urban,Under Graduate,20,7,Laptop,Middle Class,4,4,No,No,2,7,8,No,Yes,yes,75.5,2,3,Practical,6,Average
+380,Female,Urban,Under Graduate,20,8,Laptop,Middle Class,5,5,Yes,Yes,4,7,2,No,Yes,No,85.5,2,2,Practical,5,Bad
+381,Male,Urban,Under Graduate,19,4,Mobile,Middle Class,4,3,Yes,Yes,2,8,2,Yes,Yes,yes,55.5,2,1,Practical,3,Average
+382,Male,Urban,Under Graduate,19,7,Laptop,Middle Class,5,5,Yes,No,2,6,4,No,No,No,85.5,2,1,Both,5,Bad
+383,Female,Rural,Under Graduate,19,8,Laptop,Middle Class,4,3,No,No,2,6,3,No,Yes,No,95.5,4,2,Both,6,Average
+384,Male,Urban,Under Graduate,20,6,Mobile,Middle Class,4,3,Yes,Yes,2,7,4,No,Yes,No,75.5,2,2,Practical,6,Bad
+385,Female,Urban,Under Graduate,19,7,Laptop,Middle Class,6,2,No,Yes,1,8,3,No,Yes,No,95.5,3,1,Both,4,Bad
+386,Male,Urban,Under Graduate,21,6,Laptop,Middle Class,4,4,No,No,7,6,1,No,No,No,65.5,1,1,Practical,7,Good
+387,Male,Urban,Under Graduate,21,7,Laptop,Middle Class,4,3,No,No,2,6,4,Yes,Yes,No,65.5,2,2,Both,6,Average
+388,Male,Urban,Under Graduate,19,7,Laptop,Rich,4,5,Yes,No,4,6,2,Yes,No,No,95.5,1,1,Both,2,Bad
+389,Male,Urban,Under Graduate,20,8,Mobile,Middle Class,3,3,No,No,3,5,1,Yes,No,No,95.5,2,1,Both,6,Bad
+390,Female,Urban,Under Graduate,22,8,Laptop,Middle Class,3,4,No,No,4,6,3,No,Yes,No,95.5,2,2,Both,5,Average
+391,Male,Rural,Under Graduate,22,5,Mobile,Middle Class,4,4,No,Yes,4,8,2,No,Yes,yes,65.5,3,4,Both,6,Average
+392,Male,Rural,Under Graduate,22,6,Laptop,Poor,5,2,No,No,6,6,2,No,No,yes,65.5,3,3,Theory,6,Average
+393,Female,Urban,Post Graduate,37,12,Laptop,Middle Class,4,3,No,No,3,5,1,No,No,No,55.5,3,3,Practical,6,Average
+394,Female,Rural,Under Graduate,22,5,Laptop,Middle Class,3,4,No,Yes,7,8,4,Yes,Yes,yes,75.5,4,4,Practical,8,Average
+395,Female,Urban,Under Graduate,22,4,Laptop,Middle Class,6,3,No,Yes,6,5,1,Yes,Yes,yes,85.5,2,2,Practical,6,Average
+396,Female,Rural,Under Graduate,22,5,Laptop,Middle Class,4,2,No,Yes,6,6,4,No,Yes,yes,75.5,3,3,Practical,7,Bad
+397,Male,Urban,School,20,7,Laptop,Middle Class,3,3,Yes,Yes,5,8,4,Yes,Yes,yes,85.5,2,1,Both,5,Average
+398,Male,Urban,Under Graduate,20,7,Laptop,Middle Class,6,5,Yes,No,3,8,2,No,Yes,No,95.5,1,3,Both,6,Average
+399,Female,Rural,Under Graduate,22,6,Laptop,Middle Class,5,3,No,Yes,7,6,2,No,Yes,yes,65.5,3,3,Theory,6,Average
+400,Female,Rural,School,12,12,Mobile,Poor,4,2,Yes,Yes,10,8,1,No,No,No,95.5,4,4,Practical,8,Average
+401,Female,Urban,Post Graduate,40,10,Laptop,Middle Class,4,5,No,No,3,6,1,No,No,yes,15.5,5,4,Practical,9,Good
+402,Female,Rural,Under Graduate,22,6,Mobile,Middle Class,4,3,No,Yes,9,6,3,No,Yes,No,65.5,3,3,Practical,6,Average
+403,Female,Rural,Under Graduate,23,5,Laptop,Middle Class,7,3,No,Yes,7,7,3,No,Yes,No,75.5,3,3,Theory,4,Average
+404,Female,Urban,Under Graduate,23,5,Laptop,Middle Class,4,2,No,Yes,8,7,3,No,No,yes,85.5,4,3,Practical,6,Average
+405,Male,Rural,Under Graduate,24,5,Laptop,Middle Class,4,2,Yes,No,10,7,1,No,Yes,yes,65.5,3,2,Practical,6,Average
+406,Male,Rural,Under Graduate,22,5,Laptop,Middle Class,6,2,Yes,Yes,2,8,1,Yes,Yes,yes,75.5,2,1,Practical,3,Bad
+407,Male,Urban,Under Graduate,19,8,Laptop,Middle Class,3,5,No,No,10,5,8,Yes,Yes,yes,95.5,4,1,Both,6,Average
+408,Female,Urban,Under Graduate,21,20,Laptop,Middle Class,4,4,No,No,4,7,2,Yes,Yes,yes,85.5,3,4,Both,7,Average
+409,Male,Urban,Under Graduate,21,5,Laptop,Middle Class,5,5,No,No,5,6,2,No,Yes,yes,65.5,3,3,Both,6,Average
+410,Female,Urban,Under Graduate,21,5,Laptop,Middle Class,6,3,No,Yes,5,4,1,No,No,yes,85.5,3,2,Practical,4,Average
+411,Male,Urban,Under Graduate,21,5,Laptop,Middle Class,4,2,No,No,3,5,2,Yes,Yes,yes,75.5,3,2,Both,8,Average
+412,Female,Urban,Under Graduate,20,4,Laptop,Middle Class,5,5,No,No,2,7,2,No,Yes,No,75.5,4,3,Both,8,Average
+413,Female,Rural,Under Graduate,25,20,Laptop,Middle Class,4,4,Yes,Yes,3,8,2,Yes,Yes,yes,55.5,5,5,Practical,9,Good
+414,Male,Urban,Under Graduate,21,4,Laptop,Middle Class,4,4,Yes,No,5,7,2,Yes,Yes,yes,85.5,4,3,Both,6,Bad
+415,Male,Urban,Under Graduate,23,6,Laptop,Middle Class,4,4,No,Yes,2,7,1,No,Yes,yes,65.5,5,5,Practical,9,Good
+416,Male,Urban,Under Graduate,21,3,Laptop,Middle Class,4,4,Yes,Yes,4,8,3,No,No,No,65.5,4,3,Both,6,Average
+417,Female,Urban,Under Graduate,23,6,Mobile,Poor,4,2,No,Yes,6,8,2,Yes,Yes,No,55.5,4,4,Both,6,Average
+418,Female,Urban,Under Graduate,21,3,Laptop,Middle Class,4,5,No,No,2,7,1,No,Yes,No,85.5,3,3,Both,10,Average
+419,Female,Urban,Under Graduate,21,5,Mobile,Middle Class,5,4,No,Yes,7,8,1,Yes,Yes,yes,75.5,3,5,Practical,7,Good
+420,Male,Urban,Under Graduate,20,9,Mobile,Middle Class,4,3,No,No,2,7,2,Yes,No,yes,95.5,2,3,Practical,7,Average
+421,Male,Urban,Under Graduate,20,20,Desktop,Middle Class,7,1,Yes,No,1,7,2,Yes,Yes,yes,15.5,1,1,Practical,8,Average
+422,Male,Urban,Under Graduate,21,10,Laptop,Middle Class,6,2,No,Yes,8,7,1,Yes,No,No,85.5,1,1,Both,6,Bad
+423,Male,Urban,Under Graduate,21,7,Laptop,Middle Class,4,4,No,No,5,9,1,Yes,Yes,No,95.5,3,2,Both,7,Bad
+424,Female,Rural,Under Graduate,24,6,Laptop,Poor,5,2,No,Yes,6,8,1,Yes,No,yes,65.5,4,4,Both,9,Good
+425,Male,Urban,Under Graduate,22,3,Laptop,Middle Class,10,4,No,Yes,6,8,3,Yes,Yes,yes,75.5,1,1,Practical,2,Bad
+426,Female,Urban,Under Graduate,20,5,Laptop,Middle Class,5,5,No,Yes,5,6,3,Yes,Yes,yes,85.5,3,3,Both,8,Bad
+427,Male,Urban,Under Graduate,22,6,Mobile,Middle Class,3,2,Yes,No,10,2,10,No,No,yes,25.5,1,1,Both,2,Good
+428,Female,Urban,Under Graduate,20,7,Laptop,Middle Class,4,5,Yes,Yes,1,7,4,Yes,Yes,yes,85.5,4,4,Both,4,Bad
+429,Male,Urban,Under Graduate,21,5,Laptop,Middle Class,4,5,Yes,No,1,7,4,Yes,Yes,yes,95.5,5,5,Both,10,Average
+430,Male,Urban,Under Graduate,20,20,Laptop,Middle Class,4,5,No,No,1,5,8,Yes,Yes,No,85.5,3,3,Both,4,Bad
+431,Female,Rural,Under Graduate,21,3,Laptop,Middle Class,3,1,No,No,1,4,2,Yes,Yes,No,85.5,1,1,Practical,2,Bad
+432,Female,Urban,Under Graduate,21,2,Laptop,Middle Class,4,3,No,No,4,5,4,No,No,No,85.5,3,1,Practical,6,Average
+433,Female,Urban,Under Graduate,23,6,Laptop,Middle Class,4,4,No,Yes,5,6,1,No,No,No,65.5,3,3,Practical,6,Average
+434,Female,Urban,Under Graduate,19,6,Laptop,Middle Class,4,5,Yes,No,4,8,2,No,No,yes,85.5,3,3,Practical,8,Average
+435,Female,Urban,School,20,7,Laptop,Middle Class,4,5,No,No,1,6,8,No,Yes,No,75.5,1,1,Both,6,Bad
+436,Female,Rural,Under Graduate,24,6,Mobile,Middle Class,4,2,Yes,Yes,8,4,1,Yes,Yes,yes,75.5,4,3,Practical,7,Good
+437,Female,Urban,Under Graduate,22,3,Laptop,Middle Class,4,5,Yes,No,2,8,1,No,Yes,yes,85.5,4,1,Both,8,Bad
+438,Male,Urban,Under Graduate,21,4,Laptop,Rich,5,4,Yes,No,5,7,5,No,No,No,95.5,4,4,Practical,10,Average
+439,Male,Rural,School,12,8,Laptop,Middle Class,3,4,No,No,2,10,6,Yes,No,No,85.5,5,4,Theory,6,Average
+440,Female,Urban,Under Graduate,18,1,Laptop,Middle Class,4,4,Yes,No,4,7,3,Yes,Yes,yes,75.5,3,3,Practical,9,Average
+441,Female,Rural,Under Graduate,25,20,Mobile,Middle Class,5,3,Yes,No,8,8,3,Yes,Yes,No,55.5,4,5,Both,10,Average
+442,Male,Urban,Under Graduate,19,9,Laptop,Middle Class,4,5,No,No,4,6,2,No,Yes,No,75.5,5,5,Practical,9,Good
+443,Male,Urban,School,19,5,Laptop,Middle Class,3,5,No,No,3,7,3,Yes,Yes,No,95.5,2,1,Practical,3,Bad
+444,Male,Urban,Under Graduate,21,16,Laptop,Middle Class,3,4,No,No,3,7,2,No,Yes,No,85.5,3,2,Both,5,Bad
+445,Male,Urban,Under Graduate,21,19,Mobile,Middle Class,6,3,Yes,Yes,4,7,10,No,No,No,55.5,4,5,Practical,8,Good
+446,Male,Rural,Under Graduate,19,7,Mobile,Middle Class,5,3,No,No,3,7,2,Yes,Yes,No,65.5,3,3,Practical,6,Average
+447,Male,Urban,Under Graduate,17,6,Laptop,Middle Class,5,5,No,No,4,7,1,No,Yes,No,85.5,4,4,Theory,8,Good
+448,Male,Urban,Under Graduate,21,5,Laptop,Middle Class,5,5,Yes,Yes,4,7,2,No,No,No,75.5,2,4,Practical,9,Average
+449,Male,Urban,Under Graduate,21,6,Laptop,Middle Class,5,5,Yes,Yes,3,7,1,No,Yes,yes,85.5,2,1,Practical,4,Bad
+450,Female,Urban,Under Graduate,21,5,Laptop,Rich,4,5,No,No,4,8,5,No,No,No,85.5,3,3,Practical,7,Average
+451,Female,Urban,Under Graduate,21,3,Laptop,Middle Class,4,4,No,No,3,8,1,No,No,No,85.5,3,3,Both,7,Average
+452,Male,Urban,Under Graduate,21,5,Laptop,Middle Class,4,4,Yes,No,4,7,1,No,Yes,yes,75.5,2,2,Practical,8,Average
+453,Female,Urban,Under Graduate,19,6,Mobile,Middle Class,3,5,Yes,No,7,8,1,Yes,No,yes,75.5,5,5,Theory,10,Good
+454,Male,Urban,Under Graduate,21,8,Laptop,Middle Class,4,4,Yes,No,2,10,8,Yes,Yes,No,75.5,1,1,Both,4,Bad
+455,Female,Rural,Under Graduate,20,7,Laptop,Middle Class,5,4,No,Yes,8,8,3,No,Yes,No,75.5,3,3,Both,8,Average
+456,Female,Urban,Post Graduate,34,10,Laptop,Middle Class,2,4,No,No,2,6,1,No,No,yes,65.5,4,4,Practical,9,Good
+457,Male,Urban,Under Graduate,24,5,Laptop,Middle Class,5,3,No,No,3,7,5,No,No,No,75.5,3,3,Practical,6,Average
+458,Male,Urban,Under Graduate,21,5,Laptop,Middle Class,7,5,Yes,Yes,6,7,3,Yes,Yes,No,85.5,3,5,Both,6,Average
+459,Female,Urban,Under Graduate,23,4,Laptop,Rich,10,5,Yes,Yes,6,6,10,Yes,No,yes,55.5,5,5,Practical,9,Average
+460,Male,Urban,Under Graduate,21,8,Laptop,Middle Class,5,3,No,Yes,8,5,1,No,Yes,No,95.5,4,4,Both,7,Average
+461,Female,Rural,Under Graduate,24,6,Laptop,Middle Class,6,3,No,Yes,10,6,2,No,No,yes,75.5,3,3,Practical,8,Good
+462,Male,Urban,Under Graduate,20,6,Laptop,Middle Class,5,5,Yes,No,3,3,8,Yes,No,yes,95.5,1,1,Both,8,Bad
+463,Female,Urban,Under Graduate,20,9,Laptop,Middle Class,4,4,Yes,Yes,8,7,3,Yes,Yes,yes,85.5,3,2,Both,6,Average
+464,Male,Urban,Under Graduate,23,6,Laptop,Middle Class,3,3,No,No,2,4,2,No,No,yes,65.5,3,3,Both,6,Good
+465,Male,Urban,Under Graduate,18,5,Laptop,Middle Class,4,3,No,Yes,8,6,2,No,Yes,No,75.5,4,3,Practical,6,Average
+466,Female,Urban,Under Graduate,18,5,Mobile,Middle Class,4,4,No,No,4,7,2,No,No,No,95.5,3,3,Practical,6,Average
+467,Male,Urban,Under Graduate,21,8,Laptop,Middle Class,4,4,No,No,4,6,2,No,Yes,No,85.5,5,4,Both,8,Average
+468,Female,Urban,Under Graduate,18,5,Laptop,Middle Class,4,2,No,Yes,4,7,3,No,No,No,85.5,2,2,Theory,5,Average
+469,Female,Urban,Under Graduate,18,6,Laptop,Middle Class,4,5,Yes,No,4,6,2,No,Yes,No,95.5,3,3,Both,8,Average
+470,Male,Rural,Post Graduate,23,8,Mobile,Middle Class,4,4,No,No,6,6,1,No,No,No,85.5,4,3,Practical,5,Good
+471,Male,Urban,Post Graduate,21,13,Mobile,Middle Class,4,3,No,No,4,6,4,Yes,Yes,No,55.5,3,3,Both,8,Average
+472,Male,Urban,Post Graduate,21,20,Mobile,Middle Class,10,4,Yes,Yes,5,5,4,Yes,Yes,No,65.5,2,1,Practical,8,Average
+473,Male,Rural,Post Graduate,21,9,Mobile,Middle Class,4,5,Yes,No,7,8,4,Yes,Yes,No,65.5,5,5,Practical,7,Average
+474,Male,Urban,Post Graduate,21,5,Laptop,Middle Class,4,4,Yes,No,3,8,8,Yes,Yes,yes,75.5,3,3,Practical,4,Average
+475,Male,Urban,Under Graduate,17,5,Desktop,Middle Class,4,5,Yes,Yes,4,7,1,Yes,Yes,No,85.5,4,4,Both,8,Average
+476,Male,Urban,School,18,5,Mobile,Middle Class,6,3,No,Yes,5,6,6,No,Yes,yes,55.5,2,2,Both,9,Average
+477,Male,Urban,Under Graduate,21,7,Mobile,Middle Class,4,4,No,Yes,1,7,6,Yes,Yes,yes,65.5,1,1,Both,4,Average
+478,Female,Urban,Post Graduate,24,1,Mobile,Middle Class,3,2,No,No,8,5,7,Yes,No,yes,85.5,4,4,Practical,9,Bad
+479,Female,Rural,Post Graduate,24,5,Mobile,Middle Class,5,3,No,No,4,6,2,Yes,No,No,55.5,3,4,Both,8,Good
+480,Female,Rural,Under Graduate,22,5,Laptop,Middle Class,4,3,No,Yes,5,7,3,Yes,No,yes,65.5,3,2,Practical,5,Bad
+481,Female,Urban,Under Graduate,20,9,Laptop,Middle Class,4,5,No,No,4,9,8,No,Yes,yes,45.5,1,3,Both,7,Average
+482,Female,Urban,Under Graduate,23,6,Mobile,Middle Class,5,4,No,Yes,6,7,3,Yes,No,yes,95.5,3,5,Both,5,Average
+483,Male,Rural,Post Graduate,21,3,Laptop,Middle Class,4,3,No,No,5,8,6,Yes,Yes,No,75.5,2,1,Practical,8,Average
+484,Female,Rural,Under Graduate,22,5,Laptop,Middle Class,5,3,No,Yes,6,8,2,Yes,No,No,45.5,5,4,Both,8,Good
+485,Male,Urban,Under Graduate,20,8,Laptop,Middle Class,5,5,Yes,Yes,7,8,3,Yes,Yes,No,95.5,5,5,Both,8,Good
+486,Female,Urban,Under Graduate,20,6,Laptop,Middle Class,5,5,No,No,3,8,6,No,Yes,No,75.5,3,2,Theory,5,Bad
+487,Male,Rural,Under Graduate,23,6,Mobile,Poor,5,1,Yes,No,3,8,2,Yes,No,No,45.5,2,2,Both,5,Average
+488,Male,Urban,Post Graduate,24,19,Laptop,Middle Class,4,4,No,Yes,6,6,1,Yes,Yes,yes,75.5,4,4,Both,9,Average
+489,Male,Urban,Post Graduate,40,10,Laptop,Middle Class,3,4,No,No,3,6,1,No,Yes,No,55.5,4,3,Practical,7,Good
+490,Male,Urban,Under Graduate,20,8,Mobile,Middle Class,5,4,Yes,Yes,4,6,3,Yes,Yes,No,65.5,4,4,Theory,8,Good
+491,Male,Urban,Post Graduate,27,7,Laptop,Middle Class,4,4,No,No,2,6,2,Yes,Yes,No,75.5,4,3,Practical,10,Average
+492,Male,Urban,Under Graduate,19,8,Mobile,Middle Class,7,1,No,No,4,7,1,No,No,yes,55.5,2,1,Theory,9,Good
+493,Male,Rural,Under Graduate,18,7,Mobile,Middle Class,5,3,Yes,No,1,9,1,Yes,No,No,75.5,3,3,Theory,6,Average
+494,Female,Rural,Under Graduate,19,7,Mobile,Middle Class,4,3,No,Yes,5,5,2,No,No,yes,65.5,5,4,Theory,10,Good
+495,Female,Rural,Under Graduate,20,7,Mobile,Middle Class,4,4,No,Yes,4,5,2,No,No,yes,75.5,5,5,Theory,10,Good
+496,Female,Urban,Under Graduate,22,5,Mobile,Middle Class,5,2,Yes,Yes,5,4,1,Yes,No,yes,15.5,4,4,Theory,10,Good
+497,Male,Rural,Under Graduate,21,8,Mobile,Middle Class,3,2,Yes,Yes,4,7,1,No,Yes,yes,65.5,4,3,Practical,7,Average
+498,Male,Rural,Under Graduate,20,8,Laptop,Poor,6,3,No,Yes,3,6,1,Yes,Yes,No,85.5,3,3,Practical,7,Average
+499,Male,Rural,School,18,10,Mobile,Middle Class,4,3,No,Yes,2,10,2,Yes,Yes,yes,85.5,3,3,Practical,7,Average
+500,Male,Rural,School,18,10,Mobile,Middle Class,4,3,No,Yes,2,9,4,Yes,No,No,85.5,3,3,Practical,5,Average
+501,Female,Rural,Under Graduate,19,5,Laptop,Middle Class,4,5,No,Yes,1,7,2,Yes,Yes,No,65.5,5,5,Practical,10,Good
+502,Female,Rural,Under Graduate,20,6,Mobile,Rich,5,4,No,Yes,4,7,3,Yes,Yes,yes,75.5,5,4,Both,10,Good
+503,Female,Urban,Under Graduate,19,6,Desktop,Middle Class,4,5,No,Yes,3,9,2,No,Yes,yes,75.5,4,3,Practical,8,Good
+504,Female,Urban,Under Graduate,19,6,Mobile,Middle Class,3,1,No,No,4,6,2,Yes,No,yes,55.5,5,5,Both,10,Good
+505,Female,Urban,Under Graduate,21,6,Laptop,Middle Class,5,3,No,Yes,7,7,2,Yes,Yes,No,65.5,4,3,Theory,7,Good
+506,Female,Urban,Under Graduate,20,5,Mobile,Middle Class,4,4,Yes,Yes,4,8,4,Yes,Yes,yes,45.5,3,2,Theory,6,Good
+507,Female,Urban,Under Graduate,20,8,Mobile,Middle Class,4,4,No,No,3,9,4,Yes,No,yes,65.5,4,4,Both,6,Good
+508,Female,Rural,Under Graduate,19,5,Laptop,Middle Class,4,5,No,Yes,4,5,2,No,Yes,yes,75.5,5,5,Both,10,Good
+509,Female,Urban,Under Graduate,20,6,Mobile,Middle Class,4,1,No,No,8,7,2,Yes,No,No,65.5,3,4,Theory,5,Good
+510,Female,Urban,Under Graduate,19,6,Laptop,Middle Class,5,5,Yes,Yes,8,7,1,No,Yes,yes,85.5,4,4,Practical,8,Average
+511,Female,Urban,Under Graduate,19,6,Laptop,Middle Class,7,4,No,Yes,4,5,1,Yes,Yes,yes,75.5,2,2,Both,6,Average
+512,Female,Urban,Under Graduate,22,5,Laptop,Middle Class,4,4,No,Yes,6,6,3,No,Yes,yes,65.5,3,3,Theory,6,Average
+513,Male,Urban,Post Graduate,37,12,Laptop,Middle Class,4,5,Yes,Yes,4,8,3,Yes,Yes,yes,85.5,5,5,Both,10,Good
+514,Female,Rural,Under Graduate,23,5,Laptop,Middle Class,5,3,No,Yes,5,5,3,No,Yes,yes,65.5,3,3,Theory,6,Average
+515,Male,Urban,Under Graduate,21,7,Laptop,Middle Class,4,4,Yes,Yes,6,7,2,No,Yes,yes,95.5,3,4,Practical,7,Average
+516,Male,Urban,Under Graduate,20,6,Laptop,Middle Class,4,4,No,Yes,4,9,2,Yes,No,No,75.5,5,5,Theory,8,Good
+517,Male,Urban,Under Graduate,20,6,Laptop,Middle Class,4,5,No,Yes,4,8,2,Yes,Yes,No,75.5,4,4,Both,8,Good
+518,Male,Urban,Under Graduate,20,7,Laptop,Middle Class,3,5,Yes,No,4,8,2,Yes,Yes,yes,85.5,4,4,Both,9,Good
+519,Male,Urban,Under Graduate,20,7,Laptop,Middle Class,3,2,No,No,5,7,1,Yes,Yes,No,75.5,1,1,Both,6,Bad
+520,Male,Urban,Under Graduate,20,6,Laptop,Middle Class,4,5,Yes,No,2,8,6,Yes,Yes,yes,85.5,2,1,Both,7,Bad
+521,Male,Urban,Under Graduate,20,6,Mobile,Middle Class,5,3,No,Yes,3,7,2,No,Yes,No,75.5,4,4,Theory,7,Average
+522,Female,Urban,Under Graduate,20,5,Laptop,Middle Class,4,5,No,Yes,3,6,1,No,Yes,yes,65.5,5,5,Theory,10,Good
+523,Male,Urban,School,19,7,Mobile,Middle Class,4,5,No,Yes,8,7,1,No,No,No,85.5,1,1,Both,2,Bad
+524,Male,Urban,Under Graduate,20,6,Laptop,Middle Class,4,4,No,No,3,8,2,Yes,No,No,75.5,3,2,Both,6,Average
+525,Male,Urban,Under Graduate,20,12,Laptop,Rich,5,5,Yes,Yes,3,7,1,No,Yes,yes,75.5,1,1,Both,2,Bad
+526,Male,Urban,Under Graduate,21,7,Laptop,Middle Class,6,3,No,No,8,8,4,Yes,Yes,No,85.5,1,2,Both,5,Bad
+527,Male,Rural,Under Graduate,21,14,Laptop,Middle Class,8,4,Yes,Yes,3,7,3,Yes,No,yes,75.5,4,5,Both,7,Average
+528,Male,Urban,Under Graduate,20,7,Laptop,Middle Class,4,4,No,Yes,7,5,4,Yes,Yes,yes,75.5,4,3,Both,6,Average
+529,Female,Urban,Under Graduate,20,6,Mobile,Middle Class,4,4,Yes,No,6,9,2,Yes,No,No,75.5,3,2,Both,6,Average
+530,Male,Urban,Under Graduate,19,6,Laptop,Middle Class,4,4,No,No,3,8,2,Yes,Yes,No,85.5,3,3,Both,5,Average
+531,Female,Urban,Under Graduate,20,6,Mobile,Middle Class,4,4,Yes,No,3,10,4,Yes,No,yes,55.5,5,4,Theory,8,Good
+532,Male,Urban,Under Graduate,21,6,Laptop,Middle Class,4,4,Yes,Yes,3,7,2,Yes,Yes,yes,85.5,4,4,Both,8,Good
+533,Male,Urban,Under Graduate,20,7,Laptop,Middle Class,6,3,Yes,Yes,8,7,2,Yes,Yes,yes,85.5,3,3,Both,6,Good
+534,Female,Urban,School,20,6,Laptop,Middle Class,5,4,Yes,No,3,8,2,No,Yes,No,75.5,4,4,Practical,8,Good
+535,Male,Urban,Under Graduate,21,7,Laptop,Middle Class,3,3,Yes,Yes,7,5,1,No,Yes,No,85.5,3,3,Both,6,Average
+536,Female,Urban,Post Graduate,24,15,Laptop,Middle Class,4,3,No,No,6,7,3,No,No,yes,85.5,3,3,Practical,4,Average
+537,Female,Urban,School,20,6,Laptop,Rich,5,5,Yes,No,4,6,4,No,Yes,No,75.5,3,3,Theory,5,Good
+538,Male,Urban,School,17,7,Mobile,Middle Class,4,1,No,No,6,6,1,Yes,No,No,85.5,3,5,Practical,6,Average
+539,Male,Urban,School,18,6,Mobile,Middle Class,3,3,No,No,3,8,1,Yes,Yes,yes,75.5,3,4,Both,5,Average
+540,Male,Urban,Under Graduate,18,8,Laptop,Middle Class,4,5,Yes,Yes,7,8,1,Yes,Yes,No,75.5,2,1,Theory,9,Bad
+541,Female,Urban,Under Graduate,20,7,Laptop,Middle Class,4,5,Yes,No,4,8,2,No,Yes,yes,85.5,5,5,Both,9,Average
+542,Male,Rural,Under Graduate,18,7,Mobile,Middle Class,6,4,No,Yes,5,8,2,Yes,No,No,55.5,2,3,Practical,6,Average
+543,Male,Rural,Under Graduate,18,12,Laptop,Middle Class,4,4,No,Yes,5,7,1,Yes,Yes,No,85.5,4,4,Practical,8,Average
+544,Male,Rural,Under Graduate,20,6,Mobile,Middle Class,4,2,Yes,Yes,2,8,1,Yes,No,yes,75.5,3,3,Both,9,Average
+545,Male,Urban,School,20,7,Mobile,Middle Class,4,4,Yes,Yes,3,6,4,Yes,Yes,yes,75.5,3,3,Practical,8,Average
+546,Male,Urban,Under Graduate,21,7,Laptop,Middle Class,4,4,Yes,Yes,5,7,3,Yes,Yes,No,95.5,3,3,Both,7,Average
+547,Female,Urban,Under Graduate,17,5,Laptop,Middle Class,6,4,No,Yes,6,8,1,No,Yes,No,95.5,3,3,Practical,5,Average
+548,Male,Urban,Under Graduate,22,6,Laptop,Middle Class,7,4,No,No,3,9,5,No,Yes,No,45.5,3,4,Practical,7,Good
+549,Male,Rural,Under Graduate,17,8,Desktop,Middle Class,4,3,Yes,Yes,4,7,2,Yes,Yes,No,85.5,4,3,Both,6,Average
+550,Female,Urban,Under Graduate,19,6,Mobile,Middle Class,4,3,No,No,4,10,10,Yes,Yes,No,65.5,3,2,Practical,6,Average
+551,Male,Urban,Under Graduate,19,5,Mobile,Middle Class,3,5,Yes,Yes,6,6,2,Yes,Yes,yes,85.5,5,5,Both,10,Good
+552,Male,Urban,Under Graduate,20,5,Laptop,Middle Class,6,5,Yes,Yes,6,6,2,Yes,Yes,yes,85.5,3,3,Both,8,Good
+553,Male,Rural,Under Graduate,18,7,Laptop,Middle Class,4,2,Yes,Yes,4,8,2,Yes,Yes,yes,85.5,3,2,Both,6,Bad
+554,Male,Urban,Under Graduate,20,6,Laptop,Middle Class,3,4,No,Yes,7,8,2,Yes,Yes,No,85.5,3,2,Practical,7,Average
+555,Male,Rural,Under Graduate,20,7,Laptop,Middle Class,5,3,No,No,7,6,1,Yes,Yes,No,95.5,4,3,Practical,7,Average
+556,Male,Urban,Under Graduate,20,7,Laptop,Middle Class,3,3,Yes,No,3,5,2,Yes,No,No,55.5,3,3,Practical,6,Good
+557,Male,Urban,Under Graduate,20,7,Laptop,Middle Class,3,3,Yes,Yes,4,7,1,Yes,Yes,No,75.5,3,3,Practical,8,Average
+558,Male,Rural,Under Graduate,18,7,Laptop,Middle Class,4,3,No,Yes,7,7,2,Yes,Yes,yes,95.5,3,4,Practical,6,Average
+559,Female,Urban,Post Graduate,18,7,Laptop,Middle Class,4,3,No,Yes,4,6,2,No,No,No,85.5,2,1,Theory,4,Average
+560,Male,Urban,Under Graduate,21,7,Laptop,Middle Class,4,4,No,Yes,6,7,2,Yes,Yes,No,85.5,4,3,Practical,7,Average
+561,Male,Rural,Under Graduate,20,6,Laptop,Middle Class,4,3,No,No,4,8,2,No,Yes,No,85.5,1,3,Both,8,Bad
+562,Male,Rural,Under Graduate,18,7,Laptop,Middle Class,4,3,Yes,Yes,2,7,1,Yes,No,No,75.5,1,1,Both,3,Bad
+563,Male,Rural,Under Graduate,17,8,Mobile,Middle Class,4,4,No,No,7,7,2,Yes,Yes,No,85.5,3,4,Theory,7,Average
+564,Male,Rural,Under Graduate,18,6,Mobile,Middle Class,4,2,Yes,Yes,1,7,4,Yes,No,No,45.5,2,2,Practical,5,Bad
+565,Female,Urban,Under Graduate,20,6,Laptop,Middle Class,4,2,No,No,6,7,2,No,No,No,85.5,1,2,Theory,5,Average
+566,Male,Rural,Post Graduate,18,14,Mobile,Middle Class,4,1,No,Yes,6,8,4,No,Yes,yes,85.5,3,4,Practical,9,Average
+567,Male,Rural,Post Graduate,17,8,Laptop,Middle Class,4,3,Yes,Yes,4,9,2,No,Yes,yes,65.5,1,2,Practical,6,Bad
+568,Male,Rural,Under Graduate,18,6,Mobile,Middle Class,4,3,No,Yes,8,8,4,No,No,yes,85.5,4,5,Practical,9,Average
+569,Male,Urban,Post Graduate,19,8,Mobile,Middle Class,4,4,No,No,3,6,1,No,Yes,No,85.5,4,3,Theory,7,Average
+570,Male,Rural,Post Graduate,18,11,Mobile,Middle Class,5,1,No,Yes,8,5,1,No,No,yes,75.5,1,4,Practical,6,Bad
+571,Male,Urban,Under Graduate,20,7,Laptop,Middle Class,4,4,No,No,4,6,2,No,No,No,85.5,3,4,Both,8,Good
+572,Male,Urban,Under Graduate,17,8,Mobile,Middle Class,5,1,Yes,Yes,8,8,2,No,No,No,75.5,1,1,Theory,4,Bad
+573,Male,Urban,Post Graduate,20,8,Laptop,Middle Class,4,4,Yes,Yes,4,5,2,Yes,Yes,No,85.5,3,3,Theory,7,Average
+574,Male,Urban,Under Graduate,20,7,Laptop,Middle Class,9,4,Yes,No,8,7,2,No,No,yes,75.5,3,2,Practical,7,Bad
+575,Male,Urban,Under Graduate,20,7,Laptop,Middle Class,4,4,No,No,2,8,2,No,Yes,No,85.5,2,2,Both,8,Average
+576,Female,Urban,Post Graduate,22,4,Laptop,Middle Class,4,4,Yes,Yes,3,6,2,Yes,Yes,yes,75.5,3,3,Practical,6,Average
+577,Male,Rural,Under Graduate,21,7,Laptop,Middle Class,4,3,No,Yes,8,5,1,Yes,Yes,No,85.5,3,2,Both,6,Bad
+578,Male,Urban,Under Graduate,21,8,Laptop,Middle Class,3,2,No,Yes,8,8,1,Yes,Yes,No,85.5,2,2,Both,8,Bad
+579,Male,Urban,Under Graduate,20,7,Laptop,Middle Class,5,5,Yes,No,6,6,2,Yes,Yes,No,85.5,4,1,Both,7,Bad
+580,Male,Urban,Under Graduate,20,8,Laptop,Middle Class,4,4,No,No,10,7,1,Yes,No,No,85.5,2,2,Both,6,Average
+581,Female,Urban,Under Graduate,20,7,Laptop,Middle Class,4,5,Yes,No,4,6,3,No,No,yes,95.5,3,3,Both,8,Good
+582,Male,Urban,Under Graduate,20,6,Laptop,Middle Class,4,4,Yes,Yes,5,7,3,Yes,Yes,No,75.5,3,3,Theory,5,Average
+583,Male,Urban,Under Graduate,20,5,Laptop,Middle Class,5,3,No,Yes,9,5,1,No,Yes,yes,75.5,2,2,Practical,5,Bad
+584,Female,Urban,Under Graduate,17,6,Laptop,Middle Class,4,4,No,Yes,5,8,2,Yes,Yes,No,95.5,3,3,Both,8,Average
+585,Male,Rural,Post Graduate,18,7,Laptop,Middle Class,4,4,No,No,8,8,1,Yes,No,No,55.5,1,1,Practical,8,Average
+586,Male,Urban,Under Graduate,20,7,Laptop,Middle Class,4,3,Yes,No,4,7,2,Yes,Yes,No,85.5,3,2,Practical,4,Bad
+587,Female,Urban,Under Graduate,19,6,Mobile,Middle Class,4,2,No,Yes,8,7,2,Yes,No,yes,75.5,5,5,Practical,10,Good
+588,Male,Rural,Under Graduate,19,5,Mobile,Middle Class,6,1,No,No,6,6,1,No,No,No,85.5,1,1,Both,2,Bad
+589,Female,Urban,Under Graduate,18,7,Laptop,Middle Class,4,4,No,No,4,7,2,No,No,No,85.5,3,3,Theory,6,Average
+590,Male,Urban,Under Graduate,21,11,Mobile,Rich,5,5,Yes,Yes,5,8,1,No,Yes,yes,75.5,5,5,Practical,10,Good
+591,Female,Urban,Under Graduate,18,8,Laptop,Middle Class,4,5,No,Yes,5,8,1,Yes,Yes,yes,95.5,5,5,Practical,9,Good
+592,Female,Urban,Under Graduate,20,8,Laptop,Middle Class,4,4,No,Yes,2,7,2,No,No,yes,75.5,3,3,Both,9,Good
+593,Female,Urban,Under Graduate,21,7,Laptop,Middle Class,4,3,No,No,7,8,2,Yes,Yes,No,85.5,1,1,Both,4,Bad
+594,Female,Rural,Under Graduate,19,7,Mobile,Middle Class,4,4,No,Yes,2,5,2,No,Yes,No,75.5,3,4,Both,7,Average
+595,Male,Rural,Under Graduate,20,6,Mobile,Middle Class,4,3,Yes,No,2,8,6,Yes,No,yes,75.5,3,4,Practical,6,Average
+596,Female,Urban,Under Graduate,20,6,Laptop,Middle Class,5,4,No,Yes,3,8,2,No,Yes,yes,75.5,3,4,Both,8,Average
+597,Male,Rural,Under Graduate,19,7,Mobile,Middle Class,4,2,No,No,7,7,1,No,No,yes,65.5,3,3,Both,6,Average
+598,Male,Rural,Under Graduate,20,7,Mobile,Poor,5,2,No,No,6,7,4,No,No,yes,75.5,3,2,Both,6,Good
+599,Female,Urban,Under Graduate,20,6,Laptop,Middle Class,5,3,No,Yes,1,8,10,Yes,Yes,yes,75.5,2,4,Theory,6,Bad
+600,Male,Rural,Under Graduate,20,7,Mobile,Middle Class,4,3,No,No,5,8,6,Yes,Yes,No,65.5,3,3,Practical,8,Good
+601,Male,Rural,Under Graduate,19,6,Mobile,Middle Class,4,5,No,No,3,8,4,Yes,Yes,yes,85.5,5,3,Theory,8,Good
+602,Female,Urban,Under Graduate,21,7,Laptop,Middle Class,3,5,Yes,No,5,8,1,Yes,Yes,No,75.5,5,5,Theory,10,Good
+603,Female,Rural,Under Graduate,18,7,Mobile,Middle Class,4,2,No,Yes,6,4,1,Yes,No,yes,75.5,4,3,Practical,10,Good
+604,Male,Rural,Under Graduate,19,7,Mobile,Middle Class,5,4,Yes,Yes,4,6,4,Yes,No,yes,85.5,3,3,Practical,9,Good
+605,Male,Rural,School,20,8,Mobile,Middle Class,4,2,No,No,4,8,5,Yes,No,No,85.5,4,4,Both,10,Good
+606,Female,Urban,Under Graduate,21,6,Laptop,Middle Class,4,3,No,Yes,7,8,3,No,Yes,yes,85.5,3,3,Both,7,Average
+607,Male,Rural,Under Graduate,21,7,Mobile,Middle Class,4,3,Yes,No,9,8,2,Yes,No,yes,75.5,5,4,Both,9,Good
+608,Female,Urban,Under Graduate,20,6,Laptop,Middle Class,4,4,No,No,6,8,5,Yes,Yes,yes,85.5,5,5,Theory,10,Average
+609,Male,Rural,Under Graduate,19,6,Desktop,Middle Class,3,4,No,Yes,4,6,4,No,Yes,No,45.5,3,2,Practical,8,Good
+610,Female,Urban,Under Graduate,20,6,Mobile,Middle Class,4,4,No,Yes,6,7,3,No,No,No,95.5,3,2,Practical,4,Bad
+611,Female,Urban,Under Graduate,19,6,Mobile,Middle Class,4,5,No,Yes,5,8,6,Yes,No,yes,55.5,5,5,Both,10,Good
+612,Male,Urban,Under Graduate,21,7,Laptop,Middle Class,4,2,Yes,Yes,5,8,2,Yes,Yes,yes,85.5,3,3,Practical,6,Average
+613,Male,Rural,Post Graduate,40,10,Desktop,Middle Class,3,4,No,No,5,6,1,No,Yes,No,65.5,5,4,Both,10,Good
+614,Male,Urban,Under Graduate,21,7,Laptop,Middle Class,4,5,No,No,5,8,2,No,Yes,No,85.5,1,1,Both,4,Average
+615,Male,Rural,Under Graduate,21,6,Laptop,Middle Class,10,3,No,No,1,1,10,Yes,No,yes,35.5,2,1,Theory,2,Good
+616,Female,Urban,Under Graduate,19,7,Laptop,Middle Class,4,3,No,Yes,5,4,1,Yes,No,yes,75.5,3,3,Practical,6,Bad
+617,Female,Urban,School,18,6,Laptop,Poor,5,4,Yes,Yes,2,6,2,Yes,No,No,65.5,1,1,Both,3,Bad
+618,Female,Urban,Under Graduate,19,5,Laptop,Middle Class,4,3,Yes,No,3,7,1,Yes,No,yes,65.5,4,3,Theory,6,Average
+619,Female,Urban,Under Graduate,24,5,Mobile,Middle Class,5,4,No,No,2,6,1,No,Yes,yes,75.5,3,3,Practical,7,Average
+620,Female,Urban,School,18,8,Laptop,Middle Class,6,5,No,Yes,5,8,2,No,Yes,No,75.5,3,3,Practical,7,Good
+621,Female,Urban,Under Graduate,19,5,Laptop,Middle Class,3,3,No,No,5,5,2,Yes,No,yes,65.5,2,3,Theory,7,Good
+622,Female,Rural,Under Graduate,18,6,Mobile,Middle Class,4,3,No,Yes,5,7,1,Yes,No,No,75.5,3,4,Both,8,Average
+623,Male,Urban,Under Graduate,25,6,Laptop,Middle Class,5,3,No,Yes,3,7,3,Yes,Yes,yes,65.5,4,4,Practical,7,Good
+624,Male,Urban,Under Graduate,18,6,Mobile,Middle Class,5,2,Yes,Yes,3,8,2,Yes,Yes,yes,85.5,2,3,Practical,7,Bad
+625,Female,Urban,Under Graduate,19,8,Laptop,Middle Class,4,3,No,No,6,7,2,Yes,No,No,75.5,3,1,Practical,6,Average
+626,Male,Urban,Under Graduate,18,12,Mobile,Middle Class,4,3,No,Yes,8,8,4,Yes,No,No,75.5,4,4,Practical,9,Good
+627,Female,Urban,School,17,6,Laptop,Middle Class,3,3,Yes,Yes,4,7,1,Yes,Yes,yes,85.5,3,3,Theory,6,Average
+628,Male,Urban,Under Graduate,20,4,Laptop,Middle Class,4,3,No,Yes,1,6,5,Yes,Yes,No,75.5,3,3,Theory,8,Good
+629,Male,Urban,Post Graduate,17,7,Mobile,Poor,4,3,No,Yes,2,8,3,Yes,No,No,85.5,2,3,Both,4,Average
+630,Female,Urban,Under Graduate,17,6,Laptop,Middle Class,4,2,No,No,7,8,2,Yes,Yes,yes,95.5,3,2,Theory,6,Average
+631,Male,Rural,Under Graduate,18,6,Laptop,Middle Class,4,4,No,No,2,5,2,Yes,Yes,yes,35.5,1,1,Practical,3,Average
+632,Male,Rural,Under Graduate,17,8,Laptop,Middle Class,3,3,Yes,No,4,8,1,No,Yes,No,95.5,1,2,Practical,6,Bad
+633,Female,Urban,School,19,8,Mobile,Middle Class,4,3,No,No,3,9,2,No,Yes,yes,45.5,2,2,Both,4,Average
+634,Female,Rural,Under Graduate,18,8,Mobile,Middle Class,4,3,No,Yes,4,6,1,No,Yes,No,95.5,3,2,Theory,5,Average
+635,Female,Urban,Under Graduate,19,6,Laptop,Middle Class,3,4,Yes,Yes,4,6,2,Yes,Yes,yes,75.5,3,3,Practical,6,Average
+636,Female,Urban,Post Graduate,19,8,Laptop,Middle Class,4,4,No,Yes,2,8,3,No,No,yes,65.5,4,4,Practical,8,Average
+637,Female,Urban,Under Graduate,18,5,Laptop,Middle Class,4,3,No,No,4,7,1,No,Yes,No,95.5,3,5,Both,8,Average
+638,Male,Urban,Under Graduate,18,13,Laptop,Middle Class,4,4,No,Yes,4,2,2,No,No,No,75.5,3,2,Theory,7,Average
+639,Female,Urban,Under Graduate,18,9,Laptop,Middle Class,4,5,No,Yes,4,6,1,No,Yes,No,95.5,4,4,Practical,9,Average
+640,Female,Urban,Under Graduate,17,7,Laptop,Middle Class,6,4,No,No,2,7,5,No,No,No,75.5,1,1,Theory,5,Average
+641,Female,Urban,Under Graduate,17,7,Mobile,Middle Class,5,2,No,Yes,4,6,5,No,Yes,No,85.5,3,3,Practical,7,Average
+642,Male,Rural,Post Graduate,18,7,Mobile,Middle Class,4,3,No,Yes,7,9,1,No,No,No,85.5,3,3,Practical,4,Average
+643,Female,Rural,Post Graduate,20,5,Laptop,Middle Class,4,3,No,Yes,4,7,4,Yes,No,yes,85.5,3,3,Both,7,Average
+644,Female,Rural,Post Graduate,17,8,Laptop,Middle Class,3,3,No,Yes,3,6,1,Yes,Yes,No,65.5,4,4,Both,6,Average
+645,Male,Rural,Post Graduate,18,8,Laptop,Middle Class,10,2,Yes,Yes,8,7,2,Yes,No,yes,85.5,1,2,Practical,4,Bad
+646,Male,Urban,School,17,8,Laptop,Middle Class,4,3,Yes,No,5,8,2,No,Yes,No,85.5,3,2,Practical,8,Good
+647,Female,Urban,Under Graduate,18,7,Laptop,Middle Class,4,4,No,Yes,4,7,3,Yes,Yes,yes,85.5,3,2,Practical,5,Bad
+648,Female,Rural,Under Graduate,18,5,Laptop,Middle Class,4,3,No,No,4,5,3,No,Yes,No,85.5,3,3,Both,8,Average
+649,Female,Rural,Under Graduate,18,7,Laptop,Middle Class,4,4,No,No,8,8,1,No,No,No,85.5,3,4,Practical,8,Average
+650,Male,Urban,Under Graduate,18,7,Laptop,Poor,3,3,No,Yes,3,7,1,Yes,Yes,yes,85.5,3,3,Theory,8,Average
+651,Male,Urban,School,17,8,Mobile,Middle Class,4,4,No,No,1,9,3,Yes,Yes,No,95.5,2,2,Practical,6,Bad
+652,Male,Urban,Under Graduate,18,11,Laptop,Middle Class,4,3,Yes,Yes,3,8,2,Yes,Yes,yes,85.5,3,3,Practical,6,Average
+653,Female,Urban,School,17,8,Laptop,Middle Class,4,3,No,Yes,2,7,1,No,Yes,No,85.5,3,3,Practical,6,Average
+654,Female,Urban,Under Graduate,17,8,Laptop,Middle Class,4,4,No,No,8,6,2,No,Yes,No,85.5,3,2,Theory,3,Average
+655,Male,Urban,Under Graduate,19,6,Laptop,Middle Class,10,3,Yes,Yes,7,7,1,Yes,Yes,No,75.5,1,1,Practical,8,Bad
+656,Male,Rural,Post Graduate,18,12,Mobile,Poor,5,3,No,Yes,4,6,1,No,No,No,75.5,5,4,Theory,10,Average
+657,Male,Rural,Under Graduate,17,8,Laptop,Middle Class,5,4,No,Yes,6,7,2,No,Yes,No,85.5,4,2,Theory,6,Average
+658,Male,Rural,Under Graduate,18,8,Laptop,Middle Class,4,3,Yes,No,4,6,2,No,Yes,No,95.5,3,3,Both,6,Bad
+659,Female,Urban,Under Graduate,18,8,Laptop,Middle Class,4,4,No,Yes,4,6,2,No,Yes,No,85.5,3,4,Theory,7,Average
+660,Male,Rural,School,17,7,Laptop,Middle Class,4,3,Yes,No,5,6,1,Yes,Yes,No,75.5,3,2,Practical,2,Bad
+661,Female,Rural,Under Graduate,17,5,Laptop,Middle Class,5,3,No,Yes,5,6,1,Yes,Yes,No,75.5,3,3,Practical,6,Good
+662,Male,Rural,Under Graduate,18,7,Laptop,Middle Class,5,3,No,No,6,8,2,Yes,Yes,No,85.5,3,3,Practical,6,Bad
+663,Female,Rural,Under Graduate,20,7,Laptop,Middle Class,4,3,No,No,4,10,6,No,No,No,75.5,2,3,Both,4,Average
+664,Male,Rural,Under Graduate,18,9,Laptop,Middle Class,5,5,No,Yes,8,8,1,No,Yes,No,95.5,4,3,Both,8,Good
+665,Male,Urban,Under Graduate,17,7,Laptop,Middle Class,4,4,Yes,Yes,3,7,1,No,Yes,No,85.5,3,4,Practical,7,Good
+666,Male,Rural,Under Graduate,17,8,Desktop,Middle Class,4,3,No,Yes,6,7,2,No,No,yes,85.5,3,3,Theory,5,Average
+667,Female,Urban,Post Graduate,18,8,Laptop,Middle Class,4,3,Yes,Yes,3,5,1,Yes,Yes,yes,75.5,3,3,Theory,6,Average
+668,Male,Urban,Under Graduate,18,6,Mobile,Middle Class,3,4,No,No,3,8,1,Yes,Yes,No,75.5,3,5,Theory,8,Good
+669,Female,Rural,School,18,6,Laptop,Middle Class,4,4,No,Yes,4,8,1,No,No,yes,85.5,4,5,Practical,8,Good
+670,Male,Urban,Under Graduate,18,11,Laptop,Middle Class,4,3,No,No,3,8,2,Yes,Yes,No,85.5,2,2,Practical,4,Average
+671,Female,Rural,Under Graduate,19,8,Mobile,Middle Class,6,2,No,No,4,6,1,No,No,No,75.5,2,1,Practical,6,Average
+672,Male,Urban,Under Graduate,19,6,Mobile,Middle Class,4,5,No,Yes,5,8,3,No,Yes,yes,75.5,3,3,Both,6,Average
+673,Female,Urban,Under Graduate,17,6,Laptop,Middle Class,3,5,No,Yes,3,7,2,Yes,Yes,No,95.5,3,2,Practical,6,Average
+674,Male,Urban,Under Graduate,18,7,Laptop,Middle Class,5,3,Yes,Yes,6,6,2,Yes,No,No,85.5,3,4,Practical,7,Average
+675,Male,Rural,Post Graduate,20,9,Mobile,Middle Class,4,4,No,Yes,2,9,3,Yes,No,yes,75.5,3,3,Both,7,Bad
+676,Male,Urban,Under Graduate,17,6,Mobile,Middle Class,4,3,No,Yes,2,7,1,Yes,No,No,85.5,3,3,Practical,6,Average
+677,Female,Urban,Under Graduate,18,8,Laptop,Middle Class,4,4,No,No,8,6,1,No,Yes,No,85.5,3,3,Theory,7,Average
+678,Female,Urban,Under Graduate,18,6,Laptop,Middle Class,4,4,No,No,3,8,2,No,Yes,No,85.5,3,4,Practical,8,Average
+679,Female,Rural,School,18,6,Laptop,Middle Class,4,5,No,No,7,9,5,Yes,No,yes,95.5,3,3,Practical,7,Good
+680,Male,Rural,Under Graduate,18,7,Laptop,Middle Class,4,3,Yes,Yes,2,6,2,Yes,Yes,yes,65.5,3,3,Theory,9,Bad
+681,Male,Urban,Post Graduate,17,8,Laptop,Middle Class,4,3,No,Yes,3,6,2,Yes,No,yes,85.5,3,3,Theory,7,Average
+682,Female,Rural,School,18,8,Laptop,Middle Class,5,3,No,Yes,4,6,1,Yes,No,No,95.5,4,3,Theory,7,Good
+683,Male,Urban,Under Graduate,18,6,Laptop,Middle Class,4,2,No,Yes,6,8,1,No,Yes,No,95.5,3,3,Practical,6,Average
+684,Male,Rural,Under Graduate,18,8,Laptop,Middle Class,4,4,Yes,Yes,8,8,1,No,Yes,No,95.5,3,3,Theory,6,Good
+685,Female,Urban,Under Graduate,18,6,Laptop,Middle Class,4,4,No,Yes,2,8,5,No,No,No,85.5,3,3,Theory,7,Average
+686,Male,Urban,School,18,5,Laptop,Middle Class,3,5,Yes,No,3,8,2,Yes,No,yes,75.5,4,5,Practical,8,Average
+687,Male,Rural,School,18,8,Laptop,Middle Class,5,3,No,Yes,2,6,3,Yes,Yes,No,85.5,3,4,Practical,8,Good
+688,Male,Urban,Post Graduate,17,8,Laptop,Middle Class,4,3,No,Yes,3,6,2,Yes,No,yes,85.5,3,3,Theory,6,Average
+689,Male,Rural,Under Graduate,17,8,Laptop,Middle Class,4,3,No,No,8,8,4,No,Yes,No,85.5,3,3,Practical,7,Average
+690,Male,Urban,School,18,7,Laptop,Middle Class,4,4,No,Yes,8,8,2,No,Yes,No,95.5,5,5,Practical,10,Average
+691,Male,Rural,Under Graduate,18,11,Laptop,Middle Class,4,3,No,No,2,7,2,Yes,No,No,55.5,2,2,Theory,4,Average
+692,Male,Rural,Under Graduate,19,7,Mobile,Middle Class,4,5,No,No,5,8,2,No,Yes,yes,85.5,2,2,Both,4,Average
+693,Female,Urban,Under Graduate,17,8,Desktop,Middle Class,4,4,No,No,3,7,2,Yes,No,yes,85.5,1,1,Practical,5,Average
+694,Male,Urban,Under Graduate,17,8,Laptop,Middle Class,4,3,Yes,Yes,2,6,1,Yes,No,yes,75.5,3,1,Practical,5,Average
+695,Female,Rural,School,18,6,Laptop,Middle Class,6,3,Yes,Yes,3,7,1,No,Yes,yes,85.5,4,4,Practical,8,Good
+696,Female,Urban,School,17,5,Laptop,Middle Class,4,4,Yes,Yes,3,7,2,No,Yes,No,95.5,4,4,Both,8,Average
+697,Male,Rural,Under Graduate,17,8,Laptop,Middle Class,4,4,Yes,Yes,3,7,2,No,Yes,yes,65.5,3,2,Practical,6,Average
+698,Female,Urban,School,18,8,Laptop,Middle Class,4,4,Yes,Yes,4,7,1,Yes,No,No,85.5,3,3,Practical,8,Good
+699,Male,Urban,Under Graduate,17,12,Laptop,Middle Class,5,3,No,No,4,5,1,Yes,Yes,No,75.5,4,3,Practical,5,Average
+700,Male,Urban,Post Graduate,17,7,Laptop,Middle Class,4,3,Yes,Yes,2,10,6,Yes,Yes,yes,75.5,3,3,Theory,7,Good
+701,Female,Urban,Under Graduate,18,8,Laptop,Middle Class,4,4,Yes,No,3,8,2,No,Yes,No,85.5,3,4,Practical,8,Average
+702,Male,Rural,Under Graduate,18,7,Laptop,Middle Class,4,2,Yes,No,3,7,1,Yes,No,No,75.5,1,1,Practical,2,Bad
+703,Male,Urban,Under Graduate,20,7,Mobile,Middle Class,2,4,Yes,Yes,4,8,2,Yes,Yes,yes,85.5,3,2,Practical,6,Average
+704,Female,Urban,Under Graduate,19,7,Laptop,Middle Class,4,4,No,Yes,9,5,3,No,Yes,yes,85.5,4,3,Theory,4,Average
+705,Male,Urban,Under Graduate,18,11,Laptop,Middle Class,4,3,No,Yes,5,8,6,No,Yes,No,95.5,1,1,Both,2,Bad
+706,Male,Urban,Post Graduate,18,7,Laptop,Middle Class,3,1,No,No,4,8,1,No,No,No,75.5,1,2,Theory,7,Bad
+707,Male,Urban,Under Graduate,17,11,Laptop,Middle Class,6,4,No,Yes,2,8,1,Yes,Yes,yes,85.5,3,3,Practical,8,Average
+708,Male,Urban,School,17,6,Laptop,Middle Class,4,3,No,No,3,8,1,No,Yes,yes,85.5,3,3,Both,6,Average
+709,Male,Urban,Post Graduate,20,8,Mobile,Middle Class,6,3,No,Yes,5,7,2,Yes,No,No,65.5,4,5,Both,8,Good
+710,Male,Urban,Under Graduate,21,7,Laptop,Middle Class,4,5,No,No,2,6,1,Yes,Yes,No,95.5,1,2,Practical,4,Bad
+711,Male,Rural,Under Graduate,17,12,Laptop,Middle Class,5,2,Yes,Yes,4,7,2,Yes,Yes,No,75.5,2,3,Practical,4,Bad
+712,Female,Rural,Post Graduate,18,6,Laptop,Middle Class,6,4,No,No,8,7,2,No,No,No,95.5,3,3,Theory,5,Average
+713,Male,Urban,Under Graduate,17,11,Mobile,Middle Class,4,4,Yes,Yes,5,6,7,Yes,Yes,yes,55.5,3,3,Practical,7,Average
+714,Male,Rural,Under Graduate,17,8,Laptop,Poor,6,5,No,Yes,4,8,2,Yes,Yes,yes,85.5,2,3,Practical,9,Average
+715,Female,Rural,Post Graduate,18,12,Laptop,Middle Class,5,3,No,Yes,3,6,2,No,No,No,85.5,3,3,Both,6,Average
+716,Female,Rural,Under Graduate,18,8,Mobile,Poor,4,3,No,No,3,8,1,No,No,No,95.5,1,1,Practical,4,Average
+717,Male,Urban,Post Graduate,17,6,Mobile,Middle Class,4,2,Yes,No,3,6,2,Yes,Yes,yes,65.5,2,2,Theory,4,Average
+718,Male,Rural,Under Graduate,17,6,Laptop,Middle Class,4,3,No,Yes,2,8,2,Yes,Yes,No,75.5,2,3,Practical,6,Average
+719,Male,Rural,School,20,8,Laptop,Poor,5,2,No,No,4,8,6,No,No,yes,85.5,1,1,Theory,2,Bad
+720,Male,Urban,School,17,6,Desktop,Middle Class,3,1,No,No,1,6,1,Yes,Yes,No,75.5,1,1,Both,2,Bad
+721,Male,Rural,Under Graduate,19,6,Mobile,Middle Class,4,3,Yes,No,2,6,2,Yes,Yes,yes,85.5,3,3,Practical,5,Average
+722,Female,Urban,Under Graduate,17,6,Mobile,Middle Class,4,4,No,Yes,8,6,1,Yes,No,No,75.5,3,3,Theory,4,Bad
+723,Female,Urban,Post Graduate,17,6,Laptop,Middle Class,5,4,Yes,Yes,5,8,1,No,Yes,yes,85.5,2,3,Theory,7,Bad
+724,Male,Rural,Under Graduate,19,9,Laptop,Middle Class,6,2,No,Yes,5,6,2,Yes,No,No,95.5,1,1,Practical,5,Good
+725,Male,Rural,Under Graduate,21,8,Laptop,Middle Class,6,3,Yes,No,4,9,1,No,Yes,No,55.5,3,2,Theory,4,Average
+726,Male,Rural,Under Graduate,17,7,Laptop,Poor,5,3,No,Yes,8,7,2,Yes,No,No,85.5,3,4,Practical,8,Average
+727,Male,Rural,Post Graduate,18,8,Laptop,Middle Class,6,3,No,No,5,7,1,No,Yes,No,75.5,3,3,Practical,5,Average
+728,Female,Urban,Post Graduate,19,6,Mobile,Middle Class,4,3,No,No,5,5,2,No,No,No,35.5,3,3,Practical,6,Average
+729,Female,Rural,Under Graduate,20,9,Laptop,Middle Class,4,3,No,No,9,7,3,No,Yes,yes,95.5,4,4,Practical,9,Average
+730,Male,Urban,School,19,8,Laptop,Middle Class,4,3,No,Yes,8,8,1,Yes,Yes,yes,65.5,4,4,Both,7,Good
+731,Male,Rural,Post Graduate,17,12,Laptop,Poor,4,1,No,No,2,6,1,Yes,No,No,85.5,1,1,Theory,5,Bad
+732,Female,Urban,School,17,6,Laptop,Middle Class,4,4,No,Yes,4,7,6,Yes,Yes,yes,75.5,3,3,Theory,8,Average
+733,Female,Urban,Under Graduate,19,6,Mobile,Middle Class,4,2,No,No,3,6,3,Yes,No,yes,55.5,3,3,Both,5,Good
+734,Male,Urban,Under Graduate,18,20,Laptop,Middle Class,4,2,Yes,Yes,9,6,1,Yes,Yes,No,75.5,1,2,Practical,5,Bad
+735,Male,Urban,Under Graduate,19,6,Laptop,Middle Class,5,3,No,Yes,7,9,1,Yes,No,No,85.5,3,3,Both,6,Average
+736,Female,Urban,Under Graduate,18,7,Laptop,Middle Class,6,3,No,Yes,6,7,1,Yes,No,No,65.5,3,3,Both,6,Average
+737,Male,Rural,Under Graduate,19,6,Mobile,Middle Class,3,3,No,No,10,6,1,No,No,No,85.5,4,4,Both,6,Average
+738,Male,Rural,Under Graduate,19,6,Laptop,Middle Class,3,2,No,No,5,5,1,No,No,No,85.5,3,4,Both,8,Average
+739,Female,Rural,School,17,12,Mobile,Middle Class,4,2,No,No,4,8,1,Yes,Yes,yes,45.5,2,4,Practical,7,Bad
+740,Female,Urban,Post Graduate,20,7,Laptop,Middle Class,4,3,No,No,2,8,2,No,No,yes,75.5,2,2,Both,3,Average
+741,Male,Urban,Post Graduate,18,8,Desktop,Middle Class,4,3,No,Yes,4,6,1,No,Yes,No,55.5,4,4,Practical,6,Good
+742,Female,Urban,Under Graduate,20,8,Laptop,Middle Class,10,4,No,No,8,7,3,Yes,No,No,75.5,3,3,Practical,4,Average
+743,Male,Urban,School,17,8,Laptop,Middle Class,4,2,No,No,3,8,2,No,Yes,No,75.5,3,3,Theory,6,Good
+744,Male,Urban,School,17,8,Laptop,Middle Class,4,2,No,No,3,8,2,No,Yes,No,75.5,2,2,Theory,6,Good
+745,Male,Rural,Under Graduate,18,7,Laptop,Middle Class,3,3,Yes,Yes,5,8,1,Yes,Yes,No,75.5,2,2,Practical,5,Bad
+746,Female,Urban,Under Graduate,19,6,Laptop,Middle Class,4,2,No,Yes,4,7,3,No,No,No,95.5,3,3,Practical,6,Average
+747,Female,Urban,Under Graduate,17,7,Laptop,Middle Class,5,4,No,Yes,6,7,1,No,Yes,No,75.5,2,2,Theory,5,Bad
+748,Female,Urban,Under Graduate,18,8,Laptop,Middle Class,5,4,No,Yes,3,7,1,Yes,No,No,95.5,3,4,Practical,7,Average
+749,Male,Rural,School,17,8,Laptop,Middle Class,4,3,No,Yes,8,8,1,No,Yes,yes,85.5,4,4,Theory,8,Good
+750,Female,Urban,Under Graduate,17,6,Laptop,Middle Class,5,3,No,Yes,2,6,1,No,Yes,No,85.5,3,3,Theory,6,Average
+751,Female,Urban,Post Graduate,18,6,Mobile,Middle Class,6,4,No,No,2,7,4,No,No,No,95.5,3,2,Practical,5,Average
+752,Female,Rural,Under Graduate,17,7,Laptop,Middle Class,4,4,No,Yes,6,8,2,Yes,Yes,yes,75.5,3,3,Theory,8,Average
+753,Male,Urban,Under Graduate,18,6,Mobile,Middle Class,4,2,No,Yes,7,8,2,Yes,No,No,75.5,2,2,Theory,7,Average
+754,Female,Urban,Under Graduate,17,6,Laptop,Middle Class,5,3,No,Yes,2,6,1,No,Yes,No,75.5,3,3,Theory,6,Average
+755,Female,Urban,Under Graduate,18,6,Laptop,Middle Class,4,4,No,Yes,4,8,1,Yes,Yes,No,85.5,4,4,Theory,8,Average
+756,Female,Urban,Under Graduate,20,7,Laptop,Middle Class,4,4,No,Yes,5,5,2,Yes,No,yes,75.5,3,3,Practical,7,Average
+757,Female,Rural,Under Graduate,19,6,Laptop,Middle Class,4,3,No,Yes,5,7,2,No,No,No,85.5,4,3,Theory,8,Average
+758,Female,Rural,Under Graduate,18,8,Laptop,Middle Class,4,4,Yes,No,3,8,1,Yes,No,No,65.5,3,3,Theory,6,Average
+759,Male,Rural,Under Graduate,21,7,Laptop,Middle Class,5,3,No,No,3,8,2,No,No,No,85.5,1,2,Both,4,Bad
+760,Female,Urban,Under Graduate,18,5,Mobile,Middle Class,5,2,Yes,No,1,8,1,No,No,yes,85.5,3,1,Theory,6,Bad
+761,Male,Rural,Under Graduate,18,6,Mobile,Middle Class,4,2,Yes,No,1,7,5,Yes,No,No,45.5,1,1,Practical,4,Bad
+762,Male,Rural,Under Graduate,18,6,Laptop,Middle Class,4,4,No,Yes,4,7,1,No,Yes,yes,85.5,4,4,Practical,8,Bad
+763,Male,Rural,Under Graduate,19,8,Laptop,Middle Class,4,3,No,No,4,8,2,Yes,No,No,95.5,2,2,Practical,4,Average
+764,Male,Rural,Under Graduate,19,6,Laptop,Middle Class,4,3,No,Yes,3,8,2,Yes,No,No,85.5,3,3,Practical,6,Average
+765,Male,Urban,Under Graduate,18,6,Mobile,Poor,5,3,No,Yes,5,7,6,Yes,No,No,85.5,4,3,Practical,7,Average
+766,Male,Urban,School,19,7,Laptop,Middle Class,4,3,No,No,4,8,5,No,No,No,65.5,3,3,Practical,5,Average
+767,Female,Rural,Under Graduate,19,6,Mobile,Middle Class,5,3,No,No,3,7,1,Yes,No,No,75.5,3,2,Theory,5,Average
+768,Male,Urban,Under Graduate,21,7,Laptop,Middle Class,6,4,Yes,Yes,10,8,1,Yes,Yes,yes,75.5,4,3,Both,8,Good
+769,Male,Urban,Under Graduate,18,5,Laptop,Middle Class,4,4,No,Yes,3,8,4,Yes,Yes,No,45.5,1,2,Theory,8,Bad
+770,Male,Urban,Under Graduate,21,7,Laptop,Middle Class,6,4,Yes,Yes,10,8,1,Yes,Yes,yes,75.5,4,4,Both,8,Good
+771,Male,Urban,Under Graduate,18,8,Laptop,Middle Class,5,3,No,Yes,1,7,2,No,No,No,75.5,3,1,Practical,8,Average
+772,Female,Urban,School,19,6,Laptop,Middle Class,4,4,No,Yes,4,6,1,No,Yes,No,85.5,4,3,Both,8,Good
+773,Male,Urban,Under Graduate,19,5,Mobile,Middle Class,6,4,Yes,Yes,3,8,4,Yes,Yes,No,75.5,4,4,Practical,7,Average
+774,Male,Rural,Under Graduate,19,5,Mobile,Middle Class,4,4,No,Yes,8,8,2,Yes,No,No,75.5,3,4,Practical,7,Average
+775,Male,Urban,Under Graduate,19,6,Mobile,Middle Class,4,4,No,Yes,4,8,3,Yes,No,No,75.5,5,5,Practical,8,Good
+776,Female,Urban,Under Graduate,19,7,Laptop,Rich,5,5,No,No,10,8,2,No,Yes,No,95.5,3,3,Practical,9,Bad
+777,Female,Rural,Under Graduate,18,7,Mobile,Middle Class,7,2,No,No,5,8,2,No,No,yes,75.5,4,3,Theory,6,Average
+778,Male,Urban,Under Graduate,20,7,Mobile,Middle Class,4,3,No,No,2,8,1,Yes,No,No,85.5,2,2,Practical,7,Average
+779,Female,Urban,Under Graduate,20,7,Laptop,Middle Class,4,4,No,Yes,6,8,4,No,Yes,yes,75.5,4,5,Theory,8,Average
+780,Male,Rural,Under Graduate,19,7,Mobile,Middle Class,4,4,No,No,2,7,1,Yes,Yes,yes,85.5,4,3,Both,8,Average
+781,Male,Urban,Under Graduate,20,6,Laptop,Middle Class,4,4,No,No,3,6,3,Yes,Yes,yes,85.5,1,1,Both,6,Bad
+782,Male,Urban,Under Graduate,19,7,Laptop,Middle Class,2,4,No,No,1,8,2,Yes,No,yes,75.5,1,1,Practical,4,Bad
+783,Female,Rural,Under Graduate,18,6,Mobile,Middle Class,10,3,Yes,Yes,6,8,4,Yes,Yes,No,85.5,3,3,Theory,9,Average
+784,Male,Rural,Under Graduate,19,6,Mobile,Middle Class,6,4,Yes,Yes,3,8,2,No,No,No,75.5,4,4,Theory,9,Good
+785,Male,Urban,Under Graduate,19,7,Laptop,Middle Class,3,1,Yes,Yes,2,8,1,Yes,Yes,yes,75.5,1,1,Practical,2,Bad
+786,Male,Rural,Under Graduate,19,7,Mobile,Poor,5,3,Yes,Yes,6,8,1,Yes,Yes,No,95.5,2,2,Practical,8,Average
+787,Female,Rural,Under Graduate,18,7,Mobile,Middle Class,5,3,No,Yes,6,7,5,No,No,No,65.5,3,3,Theory,7,Good
+788,Male,Urban,Under Graduate,19,6,Laptop,Middle Class,4,3,No,Yes,2,6,1,No,No,No,85.5,4,4,Both,8,Average
+789,Female,Urban,Under Graduate,18,7,Mobile,Middle Class,3,5,Yes,Yes,6,7,2,Yes,Yes,No,85.5,5,5,Both,10,Good
+790,Male,Rural,Under Graduate,21,7,Mobile,Middle Class,4,2,No,No,2,8,1,No,No,yes,85.5,2,3,Practical,7,Average
+791,Male,Urban,Under Graduate,18,7,Laptop,Middle Class,4,1,No,Yes,3,7,2,No,Yes,yes,75.5,2,2,Practical,4,Average
+792,Female,Urban,Under Graduate,18,7,Laptop,Middle Class,4,3,No,Yes,5,6,2,No,Yes,No,95.5,3,3,Practical,7,Good
+793,Male,Urban,Under Graduate,19,7,Laptop,Middle Class,5,2,No,No,4,4,1,Yes,Yes,No,95.5,1,1,Practical,6,Bad
+794,Male,Rural,School,19,7,Laptop,Middle Class,9,3,No,No,10,8,3,Yes,No,No,85.5,2,1,Practical,6,Average
+795,Female,Urban,Under Graduate,19,7,Mobile,Middle Class,4,3,Yes,No,5,8,3,No,No,No,85.5,4,4,Theory,8,Average
+796,Female,Rural,Under Graduate,19,7,Laptop,Middle Class,5,4,No,No,7,9,3,No,Yes,No,75.5,4,3,Theory,8,Average
+797,Male,Rural,Under Graduate,20,7,Mobile,Middle Class,3,4,No,No,3,7,3,Yes,Yes,yes,65.5,3,3,Theory,7,Good
+798,Female,Rural,Under Graduate,18,5,Laptop,Middle Class,8,3,Yes,Yes,9,5,2,Yes,Yes,yes,95.5,3,3,Practical,6,Average
+799,Female,Rural,Under Graduate,20,8,Laptop,Middle Class,6,2,No,Yes,8,6,2,No,Yes,No,85.5,3,3,Practical,6,Bad
+800,Male,Urban,Under Graduate,18,5,Laptop,Middle Class,3,3,No,Yes,3,8,3,No,No,No,75.5,3,3,Both,10,Average
+801,Female,Urban,Under Graduate,20,13,Mobile,Middle Class,8,2,No,Yes,4,5,2,No,No,yes,65.5,3,4,Theory,7,Good
+802,Male,Urban,Under Graduate,20,8,Mobile,Middle Class,5,4,Yes,No,3,6,2,Yes,Yes,No,75.5,4,4,Theory,7,Good
+803,Male,Urban,Under Graduate,20,13,Mobile,Middle Class,4,1,No,Yes,5,6,2,Yes,No,yes,75.5,3,2,Practical,9,Average
+804,Male,Rural,Under Graduate,18,5,Laptop,Middle Class,4,4,No,No,1,7,2,Yes,No,No,55.5,4,4,Theory,7,Average
+805,Male,Urban,Under Graduate,20,8,Mobile,Middle Class,5,3,Yes,No,7,8,2,Yes,No,yes,65.5,3,2,Both,8,Average
+806,Male,Rural,Post Graduate,20,7,Laptop,Middle Class,4,5,No,Yes,4,8,3,Yes,Yes,No,55.5,5,5,Theory,10,Good
+807,Male,Rural,Under Graduate,21,7,Mobile,Middle Class,3,4,No,No,7,7,4,No,No,No,85.5,2,2,Practical,8,Average
+808,Male,Rural,Under Graduate,20,7,Mobile,Middle Class,4,3,Yes,No,7,7,2,Yes,No,No,75.5,3,2,Theory,7,Average
+809,Male,Rural,Under Graduate,21,7,Mobile,Middle Class,4,2,No,Yes,3,6,2,Yes,Yes,yes,65.5,2,2,Practical,4,Average
+810,Male,Rural,Under Graduate,20,7,Mobile,Middle Class,5,3,No,Yes,2,8,4,Yes,Yes,No,75.5,3,3,Theory,6,Good
+811,Female,Rural,Under Graduate,18,6,Mobile,Middle Class,4,3,No,Yes,1,8,3,Yes,Yes,No,95.5,3,3,Practical,7,Average
+812,Male,Urban,Under Graduate,20,7,Mobile,Middle Class,5,3,No,No,2,7,1,No,Yes,No,75.5,3,3,Both,8,Good
+813,Female,Urban,Under Graduate,20,7,Mobile,Middle Class,5,3,No,Yes,6,8,4,No,No,yes,75.5,3,2,Theory,6,Average
+814,Male,Rural,Under Graduate,20,8,Mobile,Middle Class,4,3,Yes,No,6,6,1,No,Yes,No,65.5,5,3,Theory,7,Good
+815,Male,Urban,Under Graduate,18,6,Laptop,Middle Class,4,3,No,Yes,4,8,3,Yes,Yes,No,75.5,3,3,Theory,8,Good
+816,Male,Rural,Under Graduate,23,7,Laptop,Middle Class,4,4,No,No,4,7,4,No,Yes,yes,85.5,4,2,Practical,9,Good
+817,Male,Rural,Under Graduate,20,7,Mobile,Middle Class,3,3,No,No,2,8,1,No,Yes,yes,65.5,3,3,Practical,7,Average
+818,Male,Rural,Under Graduate,21,7,Mobile,Middle Class,4,3,Yes,No,7,7,2,No,Yes,No,75.5,3,3,Theory,5,Good
+819,Male,Rural,School,17,7,Laptop,Middle Class,4,3,No,Yes,3,8,4,Yes,No,No,95.5,2,2,Both,9,Good
+820,Male,Rural,Under Graduate,20,7,Mobile,Middle Class,7,3,Yes,No,1,9,4,Yes,Yes,No,55.5,1,1,Practical,3,Average
+821,Male,Rural,Under Graduate,20,8,Mobile,Middle Class,4,4,No,No,1,8,1,No,Yes,No,75.5,4,5,Theory,10,Good
+822,Male,Rural,Under Graduate,19,7,Mobile,Middle Class,4,3,No,Yes,5,7,3,Yes,Yes,yes,55.5,4,4,Theory,8,Good
+823,Male,Urban,Under Graduate,19,12,Laptop,Middle Class,4,4,No,Yes,5,8,3,Yes,Yes,No,75.5,3,3,Practical,6,Average
+824,Male,Rural,Under Graduate,20,13,Mobile,Middle Class,4,2,No,No,3,6,3,No,No,yes,75.5,2,3,Theory,6,Bad
+825,Male,Urban,Under Graduate,21,8,Mobile,Middle Class,10,4,No,Yes,2,8,1,Yes,Yes,yes,65.5,3,3,Theory,5,Good
+826,Male,Rural,Under Graduate,21,7,Mobile,Middle Class,6,2,No,No,2,6,1,No,No,No,65.5,4,3,Theory,8,Good
+827,Male,Rural,Under Graduate,18,5,Mobile,Middle Class,4,3,No,No,1,7,2,No,No,No,55.5,3,4,Theory,7,Average
+828,Male,Urban,Under Graduate,20,7,Mobile,Middle Class,4,2,Yes,Yes,5,8,2,No,No,No,65.5,4,4,Theory,10,Good
+829,Male,Rural,Under Graduate,20,13,Mobile,Middle Class,3,2,No,No,4,7,5,Yes,No,No,65.5,3,3,Theory,5,Bad
+830,Male,Urban,Under Graduate,19,13,Laptop,Middle Class,4,3,No,No,2,7,3,Yes,Yes,No,65.5,5,3,Practical,7,Good
+831,Male,Urban,Post Graduate,18,12,Mobile,Middle Class,10,5,No,No,4,8,2,Yes,Yes,No,55.5,5,5,Theory,10,Good
+832,Male,Rural,Under Graduate,20,7,Mobile,Middle Class,4,4,No,No,5,7,3,Yes,Yes,No,85.5,4,3,Theory,7,Good
+833,Male,Urban,Under Graduate,18,6,Mobile,Poor,4,2,No,No,4,6,2,No,No,No,75.5,2,2,Practical,4,Bad
+834,Male,Urban,Under Graduate,19,7,Laptop,Middle Class,6,5,Yes,Yes,4,7,10,No,No,yes,85.5,5,2,Practical,7,Bad
+835,Male,Urban,Under Graduate,18,6,Laptop,Middle Class,4,5,Yes,No,3,7,2,Yes,Yes,No,75.5,3,2,Practical,7,Bad
+836,Male,Rural,School,20,7,Mobile,Middle Class,4,3,No,No,4,7,2,Yes,No,yes,75.5,4,4,Theory,9,Good
+837,Female,Urban,Under Graduate,19,7,Laptop,Middle Class,4,3,No,No,8,7,2,Yes,No,No,75.5,4,4,Practical,6,Average
+838,Male,Urban,Under Graduate,17,5,Laptop,Middle Class,3,4,Yes,No,2,7,3,No,Yes,No,75.5,1,3,Theory,3,Bad
+839,Male,Rural,Under Graduate,17,12,Laptop,Middle Class,3,4,Yes,Yes,3,8,1,No,Yes,yes,65.5,4,4,Practical,6,Average
+840,Male,Rural,Under Graduate,19,6,Mobile,Middle Class,4,2,Yes,No,2,7,1,Yes,Yes,No,55.5,1,1,Theory,4,Average
+841,Male,Rural,Under Graduate,19,7,Mobile,Middle Class,5,4,Yes,Yes,2,7,2,Yes,Yes,No,65.5,2,2,Theory,5,Average
+842,Male,Rural,Under Graduate,19,7,Mobile,Middle Class,6,4,No,No,1,8,1,Yes,Yes,No,75.5,4,3,Theory,8,Good
+843,Male,Rural,Under Graduate,18,7,Mobile,Middle Class,4,2,No,No,5,7,3,No,No,No,85.5,3,3,Practical,7,Average
+844,Male,Rural,Under Graduate,22,7,Mobile,Middle Class,8,3,No,No,3,8,3,Yes,Yes,No,75.5,3,4,Both,7,Good
+845,Female,Urban,Under Graduate,19,6,Mobile,Middle Class,3,3,No,No,6,7,2,No,No,yes,65.5,3,4,Theory,7,Average
+846,Male,Urban,Under Graduate,20,7,Laptop,Middle Class,5,4,Yes,Yes,3,6,1,Yes,Yes,yes,75.5,3,2,Both,8,Bad
+847,Male,Rural,Under Graduate,20,6,Laptop,Middle Class,4,4,Yes,Yes,3,8,3,Yes,No,yes,75.5,3,3,Theory,6,Average
+848,Female,Urban,Post Graduate,20,7,Laptop,Middle Class,4,3,No,Yes,5,7,3,Yes,No,No,75.5,3,4,Both,8,Average
+849,Male,Rural,School,18,7,Laptop,Poor,4,2,No,No,7,7,3,No,No,No,65.5,3,3,Theory,7,Good
+850,Male,Rural,Under Graduate,19,6,Laptop,Middle Class,4,3,No,Yes,2,7,2,Yes,No,No,75.5,1,2,Theory,8,Good
+851,Male,Urban,Post Graduate,20,8,Laptop,Middle Class,4,5,Yes,No,5,2,2,Yes,No,yes,65.5,3,5,Practical,8,Good
+852,Female,Rural,Post Graduate,19,20,Laptop,Middle Class,4,4,No,No,2,8,1,No,No,No,85.5,3,2,Theory,5,Average
+853,Male,Urban,Under Graduate,18,7,Laptop,Middle Class,4,3,No,No,3,8,5,No,Yes,No,75.5,2,3,Both,6,Good
+854,Male,Rural,Under Graduate,20,5,Mobile,Middle Class,10,4,Yes,Yes,4,7,5,Yes,No,yes,65.5,4,4,Practical,8,Good
+855,Female,Urban,Under Graduate,19,8,Laptop,Middle Class,5,5,No,No,4,7,5,No,Yes,No,75.5,3,3,Theory,8,Average
+856,Male,Urban,Under Graduate,20,5,Mobile,Middle Class,5,4,Yes,Yes,6,8,1,Yes,Yes,yes,85.5,3,3,Practical,5,Average
+857,Female,Urban,Under Graduate,18,5,Mobile,Poor,6,3,No,Yes,6,5,1,Yes,Yes,yes,75.5,3,5,Practical,10,Average
+858,Male,Urban,Under Graduate,21,8,Laptop,Middle Class,4,5,No,No,6,6,2,Yes,Yes,No,75.5,5,5,Practical,8,Average
+859,Female,Rural,Under Graduate,19,7,Laptop,Middle Class,4,4,No,Yes,4,7,2,Yes,Yes,No,95.5,3,4,Practical,8,Average
+860,Male,Urban,Under Graduate,21,8,Laptop,Middle Class,5,4,No,Yes,6,7,3,Yes,Yes,No,75.5,4,3,Both,6,Average
+861,Male,Rural,Under Graduate,20,20,Laptop,Middle Class,4,4,Yes,Yes,6,8,2,Yes,Yes,yes,75.5,4,4,Theory,8,Good
+862,Female,Rural,Under Graduate,19,7,Mobile,Middle Class,4,3,Yes,Yes,4,5,2,No,Yes,No,75.5,3,3,Theory,7,Average
+863,Male,Rural,Under Graduate,19,7,Mobile,Middle Class,5,3,Yes,No,3,7,2,Yes,No,yes,75.5,3,3,Theory,6,Good
+864,Male,Rural,Under Graduate,19,7,Mobile,Middle Class,5,3,No,Yes,6,1,2,Yes,Yes,yes,75.5,3,3,Both,7,Average
+865,Male,Rural,Post Graduate,20,8,Laptop,Middle Class,5,4,Yes,Yes,3,6,3,No,No,yes,75.5,1,2,Practical,7,Bad
+866,Male,Urban,Under Graduate,19,6,Laptop,Middle Class,4,5,Yes,Yes,4,6,3,Yes,Yes,No,75.5,3,3,Theory,6,Average
+867,Female,Urban,Under Graduate,18,5,Mobile,Middle Class,4,4,Yes,Yes,4,6,5,No,No,yes,75.5,5,5,Both,8,Average
+868,Male,Urban,Under Graduate,20,8,Mobile,Middle Class,5,4,Yes,Yes,2,6,1,No,No,No,75.5,4,3,Both,8,Average
+869,Male,Urban,Under Graduate,19,7,Laptop,Middle Class,4,3,No,Yes,5,6,1,Yes,No,No,85.5,4,4,Both,8,Average
+870,Male,Rural,Under Graduate,19,5,Mobile,Middle Class,5,2,No,No,2,8,1,Yes,Yes,No,85.5,2,1,Practical,7,Average
+871,Female,Urban,Under Graduate,18,5,Laptop,Middle Class,4,1,No,No,1,10,10,Yes,No,yes,85.5,1,1,Both,6,Bad
+872,Male,Urban,Under Graduate,19,7,Laptop,Middle Class,3,3,No,Yes,4,6,3,Yes,Yes,yes,85.5,3,3,Theory,6,Average
+873,Male,Rural,Under Graduate,18,7,Mobile,Middle Class,4,4,No,No,5,8,2,Yes,No,No,75.5,4,4,Theory,8,Average
+874,Male,Rural,Under Graduate,20,7,Mobile,Middle Class,4,4,No,Yes,9,8,3,No,No,No,75.5,3,4,Both,8,Average
+875,Male,Urban,Under Graduate,19,6,Mobile,Middle Class,3,2,Yes,No,2,8,4,Yes,No,No,75.5,1,1,Both,5,Bad
+876,Male,Rural,Under Graduate,19,7,Mobile,Middle Class,4,3,No,Yes,5,6,4,No,No,No,85.5,3,3,Theory,6,Average
+877,Male,Urban,School,17,7,Desktop,Middle Class,3,4,Yes,Yes,2,6,1,Yes,Yes,yes,55.5,3,3,Practical,6,Average
+878,Male,Rural,Under Graduate,17,8,Desktop,Middle Class,3,4,Yes,Yes,2,6,2,Yes,Yes,yes,55.5,2,2,Theory,8,Average
+879,Female,Urban,Under Graduate,22,5,Laptop,Middle Class,3,3,No,No,4,8,7,No,Yes,No,75.5,3,3,Theory,6,Average
+880,Female,Rural,Under Graduate,22,6,Mobile,Middle Class,6,3,Yes,Yes,4,6,3,Yes,Yes,yes,75.5,3,3,Practical,6,Average
+881,Male,Urban,Under Graduate,28,4,Laptop,Middle Class,6,3,No,Yes,5,6,1,No,No,No,75.5,4,4,Both,8,Average
+882,Male,Urban,Under Graduate,24,5,Laptop,Middle Class,5,4,Yes,No,2,8,1,Yes,No,No,65.5,3,3,Both,6,Average
+883,Male,Rural,Post Graduate,22,6,Mobile,Middle Class,4,3,No,No,5,8,3,Yes,Yes,yes,65.5,3,2,Both,7,Average
+884,Male,Rural,Post Graduate,25,5,Mobile,Middle Class,5,1,No,No,4,8,2,Yes,No,No,65.5,3,3,Practical,6,Bad
+885,Male,Urban,Post Graduate,21,20,Laptop,Middle Class,4,5,Yes,No,1,8,10,Yes,Yes,No,45.5,1,1,Practical,2,Good
+886,Male,Urban,Post Graduate,26,9,Laptop,Middle Class,6,4,Yes,Yes,1,5,10,Yes,No,yes,65.5,2,1,Practical,4,Average
+887,Male,Urban,Post Graduate,21,20,Laptop,Middle Class,4,4,Yes,No,5,8,1,Yes,Yes,No,95.5,3,3,Both,8,Average
+888,Female,Rural,Under Graduate,18,6,Mobile,Middle Class,4,4,No,Yes,2,6,2,Yes,No,No,75.5,4,4,Both,10,Good
+889,Male,Urban,Post Graduate,18,12,Laptop,Middle Class,3,4,No,No,6,7,1,Yes,Yes,No,75.5,2,2,Practical,7,Average
+890,Female,Urban,Under Graduate,19,6,Laptop,Middle Class,4,3,No,No,1,6,3,Yes,No,yes,75.5,3,1,Theory,7,Good
+891,Male,Rural,Under Graduate,18,8,Mobile,Poor,3,3,No,No,4,9,1,Yes,No,No,95.5,4,4,Theory,8,Average
+892,Male,Rural,Under Graduate,17,5,Mobile,Poor,4,1,No,No,3,5,2,Yes,No,No,55.5,1,1,Practical,2,Bad
+893,Female,Rural,Under Graduate,18,5,Mobile,Middle Class,6,3,No,No,4,8,3,Yes,Yes,yes,95.5,3,5,Practical,10,Good
+894,Male,Rural,Under Graduate,17,5,Mobile,Middle Class,6,4,Yes,Yes,6,7,2,No,Yes,No,95.5,2,2,Practical,9,Average
+895,Female,Urban,Under Graduate,17,5,Mobile,Middle Class,4,5,No,Yes,4,8,2,No,No,No,45.5,5,5,Theory,10,Good
+896,Male,Urban,School,17,5,Mobile,Middle Class,4,3,Yes,Yes,4,6,2,Yes,Yes,No,85.5,1,1,Practical,8,Bad
+897,Female,Urban,Under Graduate,18,5,Mobile,Middle Class,4,5,Yes,No,5,8,1,Yes,No,yes,45.5,5,5,Theory,10,Good
+898,Female,Urban,Under Graduate,18,8,Mobile,Middle Class,4,5,No,Yes,8,8,1,No,Yes,No,85.5,5,5,Both,10,Good
+899,Male,Rural,Under Graduate,17,5,Mobile,Middle Class,4,3,No,No,5,7,1,No,Yes,yes,85.5,3,4,Practical,8,Good
+900,Female,Urban,Under Graduate,17,6,Mobile,Middle Class,4,5,No,Yes,4,8,2,No,No,No,45.5,5,5,Theory,10,Good
+901,Female,Urban,Under Graduate,18,6,Mobile,Middle Class,4,5,No,Yes,4,8,2,No,No,No,85.5,3,3,Theory,4,Average
+902,Female,Urban,Under Graduate,17,6,Mobile,Middle Class,4,5,No,Yes,5,8,2,No,No,No,45.5,5,5,Theory,10,Good
+903,Male,Rural,Under Graduate,18,6,Mobile,Poor,3,3,Yes,No,8,8,1,No,Yes,No,75.5,3,4,Both,6,Average
+904,Female,Rural,Under Graduate,18,8,Mobile,Poor,5,1,No,No,8,8,1,No,No,No,85.5,5,4,Theory,10,Average
+905,Male,Rural,Under Graduate,17,6,Laptop,Middle Class,2,4,No,Yes,2,5,2,Yes,No,yes,45.5,2,1,Practical,3,Average
+906,Male,Rural,Under Graduate,17,5,Mobile,Middle Class,4,3,No,Yes,1,10,10,Yes,No,yes,25.5,5,1,Practical,6,Average
+907,Male,Rural,Under Graduate,18,10,Laptop,Middle Class,4,2,Yes,No,6,6,1,Yes,No,No,65.5,5,3,Practical,10,Good
+908,Male,Rural,Under Graduate,18,5,Mobile,Middle Class,3,4,No,Yes,4,7,2,Yes,No,No,75.5,5,4,Theory,9,Good
+909,Male,Urban,Under Graduate,17,5,Mobile,Middle Class,4,3,No,Yes,3,8,2,Yes,No,No,85.5,2,2,Theory,4,Average
+910,Male,Rural,Under Graduate,17,7,Mobile,Middle Class,4,5,No,Yes,4,5,4,Yes,No,No,75.5,5,5,Theory,7,Good
+911,Male,Rural,Under Graduate,18,5,Mobile,Poor,6,4,No,No,5,7,1,No,Yes,No,75.5,5,5,Theory,10,Good
+912,Male,Rural,Under Graduate,18,7,Mobile,Middle Class,5,4,No,No,6,7,1,Yes,No,No,85.5,4,4,Theory,7,Good
+913,Male,Rural,Under Graduate,17,7,Mobile,Middle Class,4,4,Yes,Yes,8,8,3,Yes,No,No,95.5,1,2,Both,2,Bad
+914,Male,Rural,Under Graduate,18,7,Mobile,Middle Class,4,3,No,Yes,5,8,2,Yes,No,No,85.5,3,3,Both,8,Good
+915,Female,Rural,Under Graduate,18,8,Mobile,Poor,4,3,No,Yes,2,8,1,No,No,yes,85.5,3,3,Both,6,Average
+916,Female,Urban,Post Graduate,17,5,Laptop,Middle Class,4,5,No,No,3,8,1,No,Yes,yes,75.5,4,4,Theory,7,Good
+917,Male,Rural,Under Graduate,18,7,Mobile,Poor,5,3,No,No,5,8,2,Yes,Yes,yes,65.5,4,4,Both,6,Average
+918,Female,Rural,Under Graduate,19,5,Mobile,Middle Class,4,3,No,Yes,3,7,3,Yes,Yes,yes,85.5,1,1,Practical,4,Average
+919,Female,Urban,Under Graduate,17,7,Mobile,Middle Class,4,4,Yes,Yes,5,9,3,Yes,No,No,95.5,3,3,Practical,9,Average
+920,Female,Urban,Under Graduate,18,5,Mobile,Middle Class,4,1,No,Yes,1,7,1,No,No,No,95.5,1,1,Practical,5,Bad
+921,Female,Urban,Under Graduate,18,5,Mobile,Middle Class,3,2,No,No,1,6,1,Yes,No,No,85.5,2,1,Practical,5,Bad
+922,Female,Rural,Under Graduate,18,5,Mobile,Poor,6,3,No,No,4,6,1,No,No,No,95.5,5,4,Theory,6,Good
+923,Female,Rural,Under Graduate,17,5,Mobile,Middle Class,5,3,No,No,1,7,1,Yes,No,No,95.5,2,2,Both,4,Average
+924,Female,Rural,Under Graduate,17,5,Mobile,Middle Class,4,3,No,No,4,8,2,Yes,No,yes,85.5,3,4,Practical,7,Average
+925,Female,Rural,Under Graduate,18,7,Mobile,Poor,5,2,No,No,2,7,2,No,No,No,95.5,3,4,Practical,5,Average
+926,Female,Rural,Under Graduate,18,5,Mobile,Poor,6,5,No,No,6,6,1,No,No,No,95.5,3,3,Theory,6,Good
+927,Male,Urban,Under Graduate,17,5,Mobile,Middle Class,6,5,Yes,No,4,7,2,Yes,No,yes,45.5,4,4,Practical,10,Good
+928,Female,Rural,Under Graduate,18,7,Mobile,Poor,5,5,No,No,2,7,1,No,No,No,5.0,2,2,Theory,5,Average
+929,Female,Urban,Under Graduate,17,5,Mobile,Middle Class,4,3,No,Yes,1,6,5,No,No,No,75.5,4,1,Practical,4,Average
+930,Female,Rural,Under Graduate,18,5,Mobile,Poor,4,5,No,No,3,6,2,No,Yes,No,85.5,2,2,Theory,5,Good
+931,Female,Urban,Under Graduate,18,5,Mobile,Poor,6,2,No,No,6,7,1,No,No,No,95.5,3,2,Both,3,Average
+932,Male,Urban,Under Graduate,18,4,Mobile,Middle Class,4,4,No,Yes,1,8,10,No,Yes,No,55.5,1,1,Practical,4,Bad
+933,Female,Urban,Under Graduate,18,4,Laptop,Middle Class,6,5,No,Yes,10,7,2,No,Yes,No,85.5,3,3,Practical,9,Average
+934,Female,Rural,Under Graduate,19,6,Mobile,Middle Class,6,3,No,Yes,6,6,4,No,No,No,75.5,2,3,Practical,7,Average
+935,Female,Rural,Under Graduate,17,7,Mobile,Poor,4,4,No,Yes,2,8,3,No,No,No,95.5,2,2,Practical,3,Bad
+936,Male,Rural,Under Graduate,23,5,Laptop,Middle Class,5,4,Yes,Yes,3,7,4,Yes,No,yes,65.5,3,2,Practical,5,Average
+937,Male,Urban,Under Graduate,21,6,Laptop,Middle Class,10,3,Yes,Yes,4,6,3,Yes,No,yes,75.5,4,3,Both,8,Good
+938,Male,Urban,Under Graduate,21,5,Laptop,Poor,4,5,Yes,Yes,1,8,4,Yes,No,No,85.5,4,1,Practical,7,Bad
+939,Female,Urban,Under Graduate,21,5,Mobile,Middle Class,4,4,No,No,4,10,3,No,Yes,yes,85.5,4,4,Practical,8,Average
+940,Male,Urban,Under Graduate,18,6,Laptop,Middle Class,4,5,Yes,No,8,8,1,No,Yes,No,85.5,2,3,Both,8,Average
+941,Female,Urban,Under Graduate,19,11,Mobile,Middle Class,4,5,No,No,3,10,8,Yes,No,No,85.5,1,2,Both,10,Good
+942,Male,Rural,Under Graduate,19,11,Laptop,Middle Class,4,2,Yes,No,1,6,1,Yes,No,yes,65.5,2,1,Practical,6,Average
+943,Male,Urban,Under Graduate,20,6,Laptop,Middle Class,4,4,Yes,No,4,6,1,No,No,No,95.5,4,3,Both,7,Average
+944,Male,Rural,Under Graduate,18,10,Laptop,Middle Class,4,4,Yes,Yes,8,8,3,Yes,Yes,No,85.5,4,4,Both,9,Good
+945,Male,Urban,Under Graduate,21,12,Laptop,Middle Class,9,5,No,Yes,3,8,2,No,Yes,yes,65.5,5,5,Both,10,Good
+946,Male,Rural,Under Graduate,19,9,Laptop,Middle Class,2,3,No,Yes,2,7,1,Yes,No,No,75.5,5,4,Both,10,Good
+947,Male,Urban,Under Graduate,19,18,Laptop,Poor,4,5,No,Yes,10,8,1,Yes,Yes,yes,75.5,5,5,Both,9,Good
+948,Male,Urban,Under Graduate,19,6,Laptop,Middle Class,4,4,No,Yes,7,6,1,Yes,Yes,No,75.5,2,3,Both,7,Average
+949,Male,Urban,Under Graduate,20,5,Laptop,Middle Class,4,5,No,Yes,6,6,1,Yes,Yes,yes,75.5,2,2,Both,6,Bad
+950,Male,Urban,Under Graduate,19,5,Mobile,Middle Class,4,3,Yes,Yes,3,9,1,Yes,No,yes,75.5,1,2,Both,7,Average
+951,Male,Rural,Under Graduate,20,8,Mobile,Middle Class,4,4,Yes,Yes,4,8,3,Yes,No,No,85.5,2,2,Practical,10,Bad
+952,Male,Urban,Under Graduate,19,6,Mobile,Middle Class,4,3,No,No,6,8,2,No,Yes,No,85.5,1,1,Both,2,Bad
+953,Male,Rural,Under Graduate,20,8,Mobile,Middle Class,4,4,Yes,Yes,5,8,3,Yes,No,No,95.5,2,3,Practical,10,Bad
+954,Female,Urban,Under Graduate,20,6,Laptop,Poor,6,4,Yes,No,4,7,1,Yes,No,yes,85.5,4,1,Both,6,Bad
+955,Male,Urban,Under Graduate,20,6,Mobile,Middle Class,4,5,Yes,No,5,8,4,Yes,Yes,No,75.5,3,1,Practical,2,Bad
+956,Male,Rural,Under Graduate,22,6,Mobile,Middle Class,6,1,Yes,No,1,7,2,No,No,No,75.5,2,2,Practical,3,Bad
+957,Male,Urban,Under Graduate,20,6,Laptop,Middle Class,6,3,No,Yes,4,7,3,Yes,No,yes,85.5,2,2,Practical,5,Bad
+958,Male,Urban,Under Graduate,20,6,Laptop,Middle Class,4,2,No,No,10,4,1,Yes,No,No,75.5,1,1,Both,3,Bad
+959,Female,Urban,Under Graduate,19,6,Laptop,Middle Class,4,3,Yes,No,4,8,4,No,No,No,85.5,1,1,Theory,4,Average
+960,Female,Rural,Under Graduate,22,6,Laptop,Middle Class,4,3,No,No,4,10,5,No,Yes,No,85.5,4,3,Both,8,Average
+961,Female,Urban,Under Graduate,22,6,Laptop,Middle Class,4,4,No,No,5,5,3,No,No,No,75.5,2,1,Both,8,Average
+962,Female,Urban,Under Graduate,19,6,Laptop,Middle Class,4,3,No,No,1,10,10,Yes,No,No,35.5,1,2,Practical,2,Bad
+963,Female,Urban,Under Graduate,21,6,Laptop,Middle Class,6,3,No,No,4,6,2,No,No,No,85.5,1,1,Practical,6,Bad
+964,Male,Urban,Under Graduate,19,5,Laptop,Middle Class,4,5,Yes,No,1,8,5,Yes,Yes,No,85.5,2,1,Practical,5,Bad
+965,Female,Urban,Under Graduate,18,7,Laptop,Rich,6,5,Yes,Yes,4,6,7,Yes,Yes,yes,85.5,4,5,Practical,10,Good
+966,Male,Urban,Under Graduate,18,1,Laptop,Middle Class,4,4,No,Yes,6,8,1,Yes,Yes,No,95.5,1,1,Both,6,Average
+967,Male,Urban,Under Graduate,19,11,Laptop,Middle Class,4,3,No,Yes,7,7,5,Yes,No,yes,85.5,1,1,Both,9,Bad
+968,Male,Rural,Under Graduate,19,18,Laptop,Middle Class,5,5,No,Yes,4,7,2,Yes,No,yes,95.5,2,2,Practical,8,Average
+969,Male,Rural,Under Graduate,18,11,Mobile,Middle Class,4,3,No,Yes,3,8,5,Yes,Yes,No,85.5,3,3,Practical,6,Average
+970,Male,Rural,Under Graduate,19,6,Laptop,Middle Class,4,3,Yes,Yes,4,7,4,No,Yes,No,95.5,1,1,Both,2,Bad
+971,Female,Urban,Under Graduate,20,7,Laptop,Rich,5,5,Yes,No,4,7,3,No,Yes,yes,95.5,5,5,Theory,9,Average
+972,Female,Urban,Under Graduate,20,6,Laptop,Middle Class,4,3,No,No,2,10,2,No,No,No,95.5,2,1,Practical,4,Bad
+973,Male,Urban,Under Graduate,20,6,Laptop,Middle Class,4,1,Yes,Yes,4,7,1,Yes,Yes,yes,95.5,1,1,Practical,2,Bad
+974,Male,Rural,Under Graduate,21,5,Laptop,Poor,5,3,Yes,No,3,8,2,Yes,Yes,yes,95.5,2,2,Practical,5,Average
+975,Male,Urban,Under Graduate,20,10,Laptop,Middle Class,4,4,No,No,1,8,2,Yes,Yes,yes,85.5,3,3,Both,9,Good
+976,Female,Urban,Under Graduate,18,5,Laptop,Middle Class,5,4,Yes,Yes,5,6,2,No,Yes,No,85.5,4,3,Practical,9,Average
+977,Female,Urban,Under Graduate,20,6,Laptop,Rich,4,3,Yes,Yes,2,9,3,Yes,Yes,No,75.5,3,2,Practical,7,Average
+978,Female,Urban,Under Graduate,20,6,Laptop,Middle Class,4,5,No,No,2,10,4,Yes,Yes,No,95.5,2,1,Practical,8,Bad
+979,Female,Urban,Post Graduate,30,2,Laptop,Middle Class,8,5,Yes,Yes,4,6,2,Yes,Yes,yes,75.5,3,3,Practical,7,Average
+980,Male,Rural,Under Graduate,21,7,Mobile,Middle Class,4,3,Yes,No,7,8,1,No,Yes,No,65.5,3,3,Practical,6,Good
+981,Male,Rural,Under Graduate,19,12,Mobile,Middle Class,4,4,No,Yes,3,6,1,Yes,No,No,85.5,4,4,Practical,8,Average
+982,Male,Rural,Under Graduate,21,6,Mobile,Middle Class,5,3,No,Yes,5,8,6,Yes,Yes,No,75.5,3,2,Theory,7,Good
+983,Female,Urban,Under Graduate,20,7,Mobile,Middle Class,5,4,No,Yes,2,5,1,No,No,No,85.5,3,1,Both,3,Bad
+984,Male,Rural,Under Graduate,21,7,Laptop,Rich,5,5,No,Yes,6,8,1,No,Yes,yes,75.5,5,5,Both,10,Good
+985,Male,Rural,Under Graduate,20,7,Laptop,Middle Class,4,5,Yes,Yes,4,8,2,No,Yes,No,55.5,5,5,Theory,9,Good
+986,Male,Urban,Under Graduate,20,5,Laptop,Middle Class,4,4,No,Yes,5,6,2,Yes,Yes,No,65.5,3,2,Practical,8,Average
+987,Male,Rural,Under Graduate,20,6,Laptop,Middle Class,4,4,Yes,No,3,7,4,Yes,Yes,yes,75.5,4,3,Practical,8,Average
+988,Female,Urban,Under Graduate,19,7,Mobile,Middle Class,4,4,No,No,6,7,4,No,Yes,yes,85.5,2,3,Theory,6,Average
+989,Male,Urban,Under Graduate,17,5,Laptop,Middle Class,5,4,Yes,No,5,6,1,No,No,yes,85.5,3,3,Practical,7,Average
+990,Female,Rural,Under Graduate,19,5,Laptop,Middle Class,4,4,Yes,Yes,5,9,5,No,Yes,No,95.5,3,2,Theory,7,Average
+991,Male,Rural,Post Graduate,22,4,Mobile,Poor,4,3,Yes,No,3,7,1,No,Yes,No,75.5,3,4,Practical,4,Bad
+992,Male,Urban,Post Graduate,21,5,Mobile,Poor,3,3,Yes,Yes,1,8,2,Yes,No,yes,55.5,3,4,Practical,6,Good
+993,Male,Rural,Post Graduate,21,6,Mobile,Middle Class,4,3,No,No,3,7,1,No,No,No,65.5,3,3,Practical,4,Average
+994,Male,Rural,Post Graduate,21,4,Mobile,Middle Class,4,3,No,Yes,5,7,2,Yes,No,No,75.5,4,4,Theory,9,Average
+995,Male,Rural,Post Graduate,23,5,Laptop,Poor,2,3,No,No,8,8,2,Yes,No,yes,75.5,2,2,Practical,5,Bad
+996,Male,Urban,Post Graduate,22,3,Mobile,Middle Class,5,2,Yes,Yes,3,8,1,No,Yes,yes,85.5,5,5,Practical,10,Good
+997,Female,Urban,Post Graduate,34,8,Laptop,Middle Class,6,3,No,Yes,2,7,1,No,No,No,75.5,3,3,Practical,7,Bad
+998,Male,Urban,Post Graduate,32,3,Mobile,Middle Class,4,3,No,Yes,2,8,1,Yes,No,No,75.5,2,2,Both,4,Average
+999,Male,Rural,Post Graduate,39,4,Laptop,Middle Class,4,5,No,Yes,5,7,1,Yes,No,No,65.5,5,5,Practical,7,Average
+1000,Male,Rural,Under Graduate,20,2,Mobile,Middle Class,3,3,No,No,1,7,3,Yes,No,No,15.5,1,1,Practical,2,Bad
+1001,Female,Urban,Post Graduate,39,7,Laptop,Rich,4,5,Yes,Yes,6,8,2,No,Yes,yes,85.5,5,5,Both,10,Good
+1002,Male,Urban,Under Graduate,26,5,Mobile,Middle Class,5,2,No,No,4,9,7,Yes,No,yes,85.5,1,2,Practical,4,Average
+1003,Female,Rural,Post Graduate,40,5,Desktop,Middle Class,4,3,Yes,Yes,7,7,7,Yes,Yes,yes,65.5,3,3,Both,6,Good
+1004,Female,Urban,Post Graduate,35,3,Laptop,Middle Class,4,5,No,Yes,3,4,1,No,Yes,yes,95.5,5,5,Practical,10,Good
+1005,Female,Urban,Post Graduate,34,2,Laptop,Middle Class,3,4,Yes,No,7,6,2,No,Yes,yes,75.5,5,5,Both,10,Average
+1006,Male,Rural,Post Graduate,29,3,Mobile,Middle Class,3,3,No,No,3,9,2,Yes,Yes,yes,75.5,3,4,Both,7,Average
+1007,Female,Rural,Post Graduate,40,9,Mobile,Middle Class,5,5,Yes,Yes,5,7,6,Yes,Yes,yes,25.5,5,4,Practical,9,Good
+1008,Male,Rural,Under Graduate,37,2,Mobile,Middle Class,4,3,No,No,2,7,1,No,No,No,75.5,4,3,Both,6,Good
+1009,Male,Urban,Post Graduate,40,5,Mobile,Middle Class,3,4,Yes,Yes,6,5,5,Yes,Yes,yes,45.5,4,4,Both,9,Average
+1010,Female,Rural,Post Graduate,36,2,Laptop,Middle Class,6,4,Yes,No,2,5,1,Yes,No,yes,55.5,4,4,Practical,8,Good
+1011,Female,Urban,Under Graduate,25,3,Laptop,Middle Class,4,5,No,Yes,2,5,7,Yes,No,No,45.5,3,3,Theory,5,Average
+1012,Female,Rural,Post Graduate,40,2,Mobile,Middle Class,2,5,No,No,2,8,3,No,Yes,No,75.5,5,5,Practical,10,Average
+1013,Male,Rural,Post Graduate,36,6,Laptop,Middle Class,7,4,Yes,Yes,7,7,7,Yes,Yes,yes,55.5,4,4,Theory,8,Good
+1014,Male,Urban,Post Graduate,40,7,Laptop,Middle Class,4,4,Yes,Yes,3,7,1,No,Yes,yes,95.5,3,2,Both,7,Good
+1015,Female,Urban,Post Graduate,40,2,Laptop,Middle Class,3,5,No,No,2,9,1,Yes,Yes,yes,55.5,3,3,Practical,6,Good
+1016,Female,Urban,Post Graduate,21,5,Mobile,Middle Class,5,2,Yes,Yes,5,8,2,Yes,Yes,No,45.5,3,2,Practical,6,Average
+1017,Female,Rural,Under Graduate,20,3,Mobile,Middle Class,3,2,No,No,4,6,2,No,Yes,yes,75.5,3,3,Theory,5,Average
+1018,Female,Rural,Under Graduate,20,3,Mobile,Middle Class,3,5,No,No,4,6,2,No,Yes,No,75.5,2,2,Both,4,Average
+1019,Female,Rural,Under Graduate,21,6,Mobile,Middle Class,3,2,No,No,5,6,1,Yes,No,yes,75.5,3,3,Practical,7,Average
+1020,Female,Rural,Under Graduate,20,3,Mobile,Middle Class,6,4,No,Yes,2,7,2,No,Yes,No,85.5,4,3,Practical,7,Good
+1021,Female,Rural,Under Graduate,20,3,Mobile,Middle Class,4,4,No,Yes,2,7,1,No,No,No,75.5,1,1,Practical,8,Average
+1022,Female,Rural,Under Graduate,21,3,Mobile,Middle Class,4,5,No,Yes,2,7,2,Yes,Yes,No,55.5,4,4,Practical,8,Good
+1023,Female,Rural,Under Graduate,19,5,Mobile,Middle Class,4,2,Yes,Yes,8,7,4,Yes,Yes,No,75.5,4,4,Practical,8,Average
+1024,Female,Rural,Under Graduate,20,5,Mobile,Middle Class,6,3,Yes,Yes,8,7,4,Yes,Yes,No,75.5,4,4,Theory,8,Average
+1025,Female,Rural,Under Graduate,21,6,Mobile,Middle Class,4,5,No,No,6,6,3,Yes,Yes,No,75.5,5,5,Theory,10,Good
+1026,Female,Rural,Under Graduate,21,6,Laptop,Middle Class,5,5,Yes,No,8,7,5,Yes,Yes,No,75.5,5,5,Practical,10,Good
+1027,Female,Rural,Under Graduate,20,3,Mobile,Middle Class,4,4,Yes,No,4,6,1,Yes,Yes,No,75.5,3,3,Practical,5,Average
+1028,Female,Rural,Under Graduate,19,3,Mobile,Middle Class,6,5,Yes,Yes,4,8,4,Yes,Yes,yes,95.5,4,4,Theory,8,Average
+1029,Female,Rural,Under Graduate,20,6,Desktop,Middle Class,3,1,No,No,3,7,2,Yes,Yes,No,75.5,5,5,Theory,10,Average
+1030,Female,Rural,Under Graduate,20,3,Mobile,Middle Class,3,2,No,No,3,6,3,No,Yes,yes,75.5,2,2,Theory,6,Average
+1031,Female,Rural,Under Graduate,19,6,Mobile,Middle Class,2,3,Yes,No,4,6,2,Yes,No,No,65.5,3,3,Both,6,Good
+1032,Female,Urban,Under Graduate,20,6,Laptop,Middle Class,4,3,No,No,5,7,1,Yes,Yes,yes,85.5,5,4,Practical,10,Average
