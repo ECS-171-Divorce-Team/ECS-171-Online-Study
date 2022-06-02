@@ -6,7 +6,21 @@ A Machine Learning project about the online education system.
 https://docs.google.com/document/d/1zDExrRJAhWO2K9hIyktmuR7PUOF_EqtLiSvZsmc4im4/edit?usp=sharing)
 
 ## Requirement:
-- [Online Studying Dataset](https://www.kaggle.com/datasets/sujaradha/online-education-system-review)
+1) We use dataset from [Kaggle](https://www.kaggle.com/)
+
+[Online Studying Dataset](https://www.kaggle.com/datasets/sujaradha/online-education-system-review)
+
+2) Install many Machine Learning libraries for python
+    - Make sure python is foundable and up-to-date:
+    
+    Enter this to your terminal:
+    ```bash
+    python --version
+    # or
+    python3 --version
+    ```
+    
+    - Install
 
 ## Project Breakdown:
 1) Data Exploration
@@ -33,3 +47,5 @@ How well is the model performing (MSE)
 
 ## Project Timeline:
 [Check our milestones page to see the timeline](https://github.com/ECS-171-Divorce-Team/ECS-177-Divorce-Prediction/milestones)
+
+
